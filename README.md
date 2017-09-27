@@ -41,11 +41,13 @@
 
 ## Components & Libraries
 - Utilities
+  - [nest-cqrs](https://github.com/kamilmysliwiec/nest-cqrs) A lightweight CQRS module for Nest framework
 - Typescript
 - i18n
 - Custom Events
 - Persistence
 - State Management
+  - [ngrx-nest](https://github.com/derekkite/ngrx-nest) ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) An unofficial TypeScript StyleGuide
 - Migration
@@ -62,6 +64,8 @@
     - [nest-sequelize-jwt](https://github.com/adrien2p/nest-js-sequelize-jwt) Starter kit Nest + Sequelize + jwt
   - GraphQL
     - [nest-js-graphql](https://github.com/adrien2p/nest-js-graphql) Nest-js starter which implement graphql module
+  - Pattern
+    - [nest-grpc-transport](https://github.com/fresh8/nestjs-grpc-transport) GRPC transport layer for the NestJS framework
 
 ## Runtime
   - Command Line / Terminal  
