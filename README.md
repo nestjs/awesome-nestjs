@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-	<a href="#resources">Categories</a>
+	<a href="#resources">Resources</a>
   &nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>
   &nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Official documentation</a>
+	<a href="https://nestjs.com">Official documentation</a>
 </p>
 
 <br>
@@ -28,6 +28,8 @@
     - [Nest starter](https://github.com/kamilmysliwiec/nest-typescript-starter) The Nest framework starter repository
 - Community
 - Tutorials
+  - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
+  - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
@@ -66,6 +68,6 @@
     - [cli](https://github.com/nestjs/nest-cli) CLI tool for Nestjs applications 
 
 
-### Feel free to add your projects, examples, videos, tutorials, books, etc.
+#### [Feel free to add your projects, examples, videos, tutorials, books, etc.](./contributing.md)
 
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://camo.githubusercontent.com/da896acd40e1f4f275c2da6e1d830b2865803fc8/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f702f7a65726f2f312e302f38387833312e706e67" alt="CC0" data-canonical-src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="max-width:100%;"></a>
