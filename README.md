@@ -27,6 +27,7 @@
   - Exampes
     - [Nest starter](https://github.com/kamilmysliwiec/nest-typescript-starter) The Nest framework starter repository
 - Community
+  - [Gitter](https://gitter.im/nestjs/)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
