@@ -1,5 +1,6 @@
 <h1 align="center">
 	<img width="250" src="http://nestjs.com/img/logo.png" alt="Awesome">
+  <br>
   <center>
     <strong>Awesome Nest</strong>
   </center>
