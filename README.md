@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-	<a href="#categories">Categories</a>
+	<a href="#resources">Categories</a>
   &nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>
   &nbsp;&nbsp;&nbsp;
@@ -24,10 +24,13 @@
   - [API Reference](https://docs.nestjs.com)
   - [GitHub Repo](https://github.com/nestjs/nest)
   - [Release Notes](https://github.com/nestjs/nest/blob/master/CHANGELOG.md)
+  - Exampes
+    - [Nest starter](https://github.com/kamilmysliwiec/nest-typescript-starter) The Nest framework starter repository
 - Community
 - Tutorials
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
+  - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
 - Books
 
 ## Projects using NestJS
@@ -49,11 +52,14 @@
 
 ## Integrations
   - Auth
-    - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) NestJS Framework web application with Auth0.
+    - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) NestJS Framework web application with Auth0.  
   - Databases
     - [NestJS + TypeORM](http://docs.nestjs.com/recipes/sql-typeorm) TypeORM library is the most mature Object Relational Mapper (ORM) available in the node.js world.
     - [nest-mongoose](https://github.com/JulianBiermann/nest-mongoose) Extension for the nest framework in order to inject mongoose models into components.
     - [nest-mysql](https://github.com/cdiaz/nest-mysql) Example usage of MySQL with the Nest framework.
+    - [nest-sequelize-jwt](https://github.com/adrien2p/nest-js-sequelize-jwt) Starter kit Nest + Sequelize + jwt
+  - GraphQL
+    - [nest-js-graphql](https://github.com/adrien2p/nest-js-graphql) Nest-js starter which implement graphql module
 
 ## Runtime
   - Command Line / Terminal  
