@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="250" src="http://nestjs.com/img/logo.png" alt="Awesome">
+	<img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
   <br>
   <center>
     <strong>Awesome Nest</strong>
@@ -27,6 +27,7 @@
   - Exampes
     - [Nest starter](https://github.com/kamilmysliwiec/nest-typescript-starter) The Nest framework starter repository
 - Community
+  - [Gitter](https://gitter.im/nestjs/)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
