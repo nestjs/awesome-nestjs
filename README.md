@@ -42,6 +42,9 @@
   - [rest-nestjs-postgres](https://github.com/crudjs/rest-nestjs-postgres) CrudJS implemented as a REST API, using Nest.js and Postgres.
   - [nest-permissions-seed](https://github.com/EndyKaufman/nest-permissions-seed) A simple application demonstrating the basic usage of permissions with NestJS.
   - [angular-nestjs-rendering](https://github.com/Innovic-io/angular-nestjs-rendering) Angular 5+ server side rendering using NestJS
+   - [angular-contact-manager-app](https://github.com/Abdallah-khalil/ContactManagerApp) A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT 
+   - [books-library-api](https://github.com/Abdallah-khalil/Books-Library-API) A restful API with nestjs, mongoose ,, Passport, JWT
+   - [passport-auth-nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) Passport strategies and oauth integration built with nestjs
 - Books
 - Conferences
 
