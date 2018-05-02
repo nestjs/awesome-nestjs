@@ -79,6 +79,9 @@
   - [nestjs-flub](https://github.com/shekohex/nestjs-flub)  Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:
 - Lint
   - [eslint-plugin-nestjs](https://github.com/unlight/eslint-plugin-nestjs) ESLint rules for nestjs framework
+- Router🚦
+  - [nest-router](https://github.com/shekohex/nest-router) Router Module For Nestjs Framework 🚦 🚀
+  	for organizing your Routes, creating a routes tree, and more.
 
 ## Integrations
 
