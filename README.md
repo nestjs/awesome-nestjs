@@ -82,6 +82,8 @@
 - Router🚦
   - [nest-router](https://github.com/shekohex/nest-router) Router Module For Nestjs Framework 🚦 🚀
   	for organizing your Routes, creating a routes tree, and more.
+- Dialogflow :satellite:
+  - [nestjs-dialogflow](https://github.com/adrien2p/nestjs-dialogflow) Dialog flow module that simplify the web hook handling for your NLP application using NestJS
 
 ## Integrations
 
