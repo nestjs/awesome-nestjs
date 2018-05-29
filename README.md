@@ -34,6 +34,12 @@
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) Teach how to use NestJS step by step
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
   - [Nestjs30Days](https://github.com/m24927605/Nestjs30Days) Learn the nestjs framework in 30 days.
+  - [Build a geofencing web app using Nest.js and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
+  - [Building a chat bot with Nest.js and Dialogflow](https://pusher.com/tutorials/chat-bot-nestjs)
+  - [Build live comments with sentiment analysis using Nest.js](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
+  - [Build a chat app with sentiment analysis using Nest.js](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
+  - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
+  - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
