@@ -51,6 +51,7 @@
    - [angular-contact-manager-app](https://github.com/Abdallah-khalil/ContactManagerApp) A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT 
    - [books-library-api](https://github.com/Abdallah-khalil/Books-Library-API) A restful API with nestjs, mongoose ,, Passport, JWT
    - [passport-auth-nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) Passport strategies and oauth integration built with nestjs
+   - [lynx](https://github.com/mentos1386/lynx) Opinionated Framework built on top of NestJS and TypeORM
 - Books
 - Conferences
 
@@ -84,6 +85,7 @@
   - [nest-middlewares](https://github.com/wbhob/nest-middlewares) Common, injectable middlewares for NestJS.
 - Errors
   - [nestjs-flub](https://github.com/shekohex/nestjs-flub)  Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:
+  - [nest-raven](https://github.com/mentos1386/nest-raven) Sentry Raven Module for Nest.js Framework
 - Lint
   - [eslint-plugin-nestjs](https://github.com/unlight/eslint-plugin-nestjs) ESLint rules for nestjs framework
 - Router🚦
