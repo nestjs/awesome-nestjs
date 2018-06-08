@@ -40,6 +40,7 @@
   - [Build a chat app with sentiment analysis using Nest.js](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
   - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
   - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
+  - [NestJS Basic Auth and Sessions](http://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
