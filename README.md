@@ -24,12 +24,12 @@
   - [API Reference](https://docs.nestjs.com)
   - [GitHub Repo](https://github.com/nestjs/nest)
   - [Release Notes](https://github.com/nestjs/nest/blob/master/CHANGELOG.md)
-  - Exampes
+  - Examples
     - [Nest starter](https://github.com/nestjs/typescript-starter) Nest framework TypeScript starter
     - [javascript-starter](https://github.com/nestjs/javascript-starter) Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Community
   - [Gitter](https://gitter.im/nestjs/)
-  - [Telegram] (https://t.me/nestjs)
+  - [Telegram](https://t.me/nestjs)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) Teach how to use NestJS step by step
