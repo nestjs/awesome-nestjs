@@ -67,7 +67,7 @@
 
 - Utilities
   - [nest-cqrs](https://github.com/nestjs/cqrs) A lightweight CQRS module for Nest framework
-  - [nestjs-config](https://github.com/fenos/nestjs-config) A Great module to handle project configurations
+  - [nest-config](https://github.com/bashleigh/nest-config) An easy to use nest config module for dotenv
 - Typescript
 - i18n
 - Custom Events
