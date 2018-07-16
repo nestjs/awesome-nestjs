@@ -98,6 +98,8 @@
   	for organizing your Routes, creating a routes tree, and more.
 - Dialogflow :satellite:
   - [nestjs-dialogflow](https://github.com/adrien2p/nestjs-dialogflow) Dialog flow module that simplify the web hook handling for your NLP application using NestJS
+- Logging
+  - [nest-morgan](https://github.com/mentos1386/nest-morgan) Morgan module for nestjs
 
 ## Integrations
 
