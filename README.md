@@ -56,6 +56,7 @@
   - [lynx](https://github.com/mentos1386/lynx) Opinionated Framework built on top of NestJS and TypeORM
 - Boilerplate
   - [Nest-BFF](https://github.com/ahrnee/nestjs-bff) A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
+  - [nestjs-template](https://github.com/Saluki/nestjs-template) Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments 
 - Books
 - Conferences
 
