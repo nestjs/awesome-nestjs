@@ -64,6 +64,7 @@
 
 - Open Source
   - [evebook/api](https://github.com/evebook/api) :milky_way: EVE Book API
+  - [roche/lxdhub](https://github.com/Roche/lxdhub): Management system for Linux Containers (LXC).
 - Enterprise Usage
 
 ## Components & Libraries
