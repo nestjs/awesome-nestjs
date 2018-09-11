@@ -46,6 +46,7 @@
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
   - [simple-todos](https://github.com/BruceHem/simple-todos) A simple web application powered by Nuxt.js :green_heart: & Nest Framework :heart_eyes_cat:
+  - [Realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) Exemplary real world backend API built with NestJS + TypeORM
   - [mant](https://github.com/vladotesanovic/mant) New Stack on the Market to beat them all :ring: MANT.
   - [rest-nestjs-postgres](https://github.com/crudjs/rest-nestjs-postgres) CrudJS implemented as a REST API, using Nest.js and Postgres.
   - [nest-permissions-seed](https://github.com/EndyKaufman/nest-permissions-seed) A simple application demonstrating the basic usage of permissions with NestJS.
