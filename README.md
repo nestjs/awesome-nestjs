@@ -42,6 +42,7 @@
   - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
   - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
   - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
+  - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
@@ -58,6 +59,7 @@
 - Boilerplate
   - [Nest-BFF](https://github.com/ahrnee/nestjs-bff) A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [nestjs-template](https://github.com/Saluki/nestjs-template) Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments 
+  - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
 - Books
 - Conferences
 
