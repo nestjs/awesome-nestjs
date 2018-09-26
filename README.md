@@ -124,6 +124,8 @@
     - [nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) Vscode nestjs code Snippets
 - AMQP
   - [nestjs-amqp](https://github.com/nestjs-community/nestjs-amqp) An amqp connection manager 
+- Payment Gateways 
+  - [nestjs-braintree](https://github.com/nestjs-community/nestjs-braintree) A module for webhooks and transactions
 
 ## Runtime
 
