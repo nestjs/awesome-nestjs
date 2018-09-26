@@ -122,6 +122,8 @@
 - Editors
   - VSCode
     - [nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) Vscode nestjs code Snippets
+- AMQP
+  - [nestjs-amqp](https://github.com/nestjs-community/nestjs-amqp) An amqp connection manager 
 
 ## Runtime
 
