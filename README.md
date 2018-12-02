@@ -71,30 +71,22 @@
   - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
   - [NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
-- Books
-- Conferences
 
 ## Projects using NestJS
 
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - :milky_way: EVE Book API
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
-- Enterprise Usage
 
 ## Components & Libraries
 
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Nestjs Config](https://github.com/nestjs-community/nestjs-config) - A Great module to handle project configurations.
-- Typescript
-- i18n
-- Custom Events
-- Persistence
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
-- Migration
 - Web Sockets
   - [Oficial](https://docs.nestjs.com/websockets/gateways)
 - Mail
@@ -143,8 +135,6 @@
 
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
-
-**[Feel free to add your projects, examples, videos, tutorials, books, etc.](./contributing.md).**
 
 ## License
 
