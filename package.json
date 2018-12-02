@@ -2,6 +2,7 @@
   "name": "awesome-nestjs",
   "version": "1.0.0",
   "description": "😏 Curated list of NestJS",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "awesome-lint"
@@ -17,7 +18,7 @@
     "node"
   ],
   "author": "https://github.com/juliandavidmr",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/juliandavidmr/awesome-nestjs/issues"
   },

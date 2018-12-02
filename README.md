@@ -1,20 +1,18 @@
-<h1 align="center">
-	<img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
+<div align="center">
+  <img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
   <br>
-  <center>
-    <strong>Awesome Nest</strong>
-  </center>
-</h1>
+  <h1>Awesome Nest</h1>
 
-<p align="center">
-	<a href="#resources">Resources</a>
+  <a href="#resources">Resources</a>
   &nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>
+  <a href="contributing.md">Contribution guide</a>
   &nbsp;&nbsp;&nbsp;
-	<a href="https://nestjs.com">Official documentation</a>
-</p>
+  <a href="https://nestjs.com">Official documentation</a>
 
-<br>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
 
 ## Contents
 
@@ -136,6 +134,13 @@
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
 
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 ## License
 
-<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://camo.githubusercontent.com/da896acd40e1f4f275c2da6e1d830b2865803fc8/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f702f7a65726f2f312e302f38387833312e706e67" alt="CC0" data-canonical-src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="max-width:100%;"></a>
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, juliandavidmr has waived all copyright and
+related or neighboring rights to this work.
