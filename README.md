@@ -64,6 +64,7 @@
   - [Passport Auth Nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with nestjs
   - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
   - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
+  - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - A micro-service solution starter for Nest framework.
 - Boilerplate
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
@@ -81,6 +82,12 @@
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Nestjs Config](https://github.com/nestjs-community/nestjs-config) - A Great module to handle project configurations.
+  - [Nest Boot](https://github.com/miaowing/nest-boot) - A module to get configurations when the app bootstrap.
+  - [Nest Consul Config](https://github.com/miaowing/nest-consul-config) - A module to get configurations from consul kv.
+  - [Nest Consul Service](https://github.com/miaowing/nest-consul-service) - Simple service registration and discovery.
+  - [Nest Consul Loadbalance](https://github.com/miaowing/nest-consul-loadbalance) - A software load balancers primary for rest calls.
+  - [Nest Feign](https://github.com/miaowing/nest-feign) - Writing nest framework http clients easier.
+  - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
@@ -128,6 +135,10 @@
   - [Nestjs AMQP](https://github.com/nestjs-community/nestjs-amqp) - An amqp connection manager.
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjs-community/nestjs-braintree) - A module for webhooks and transactions.
+- Consul
+  - [Nest Consul](https://github.com/miaowing/nest-consul) - A consul module for Nest framework.
+- Cache
+  - [Nest Memcached](https://github.com/miaowing/nest-memcached) - A memcached module for Nest framework.
 
 ## Runtime
 
