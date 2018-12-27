@@ -34,7 +34,8 @@
     - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Community
   - [Gitter](https://gitter.im/nestjs/)
-  - [Telegram](https://t.me/nestjs)
+  - [Discord](https://discord.gg/G7Qnnhy)
+  - [Telegram (community maintained)](https://t.me/nestjs)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
