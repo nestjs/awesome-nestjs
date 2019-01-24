@@ -66,6 +66,7 @@
   - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
   - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - A micro-service solution starter for Nest framework.
+  - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
 - Boilerplate
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
