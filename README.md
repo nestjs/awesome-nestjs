@@ -36,6 +36,7 @@
   - [Gitter](https://gitter.im/nestjs/)
   - [Discord](https://discord.gg/G7Qnnhy)
   - [Telegram (community maintained)](https://t.me/nestjs)
+  - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
