@@ -86,11 +86,11 @@
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Nestjs Config](https://github.com/nestjs-community/nestjs-config) - A Great module to handle project configurations.
-  - [Nest Boot](https://github.com/miaowing/nest-boot) - A module to get configurations when the app bootstrap.
-  - [Nest Consul Config](https://github.com/miaowing/nest-consul-config) - A module to get configurations from consul kv.
-  - [Nest Consul Service](https://github.com/miaowing/nest-consul-service) - Simple service registration and discovery.
-  - [Nest Consul Loadbalance](https://github.com/miaowing/nest-consul-loadbalance) - A software load balancers primary for rest calls.
-  - [Nest Feign](https://github.com/miaowing/nest-feign) - Writing nest framework http clients easier.
+  - [Nest Boot](https://github.com/nest-cloud/nest-boot) - A module to get configurations when the app bootstrap.
+  - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
+  - [Nest Consul Service](https://github.com/nest-cloud/nest-consul-service) - Simple service registration and discovery.
+  - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
+  - [Nest Feign](https://github.com/nest-cloud/nest-feign) - Writing nest framework http clients easier.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
@@ -140,9 +140,9 @@
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjs-community/nestjs-braintree) - A module for webhooks and transactions.
 - Consul
-  - [Nest Consul](https://github.com/miaowing/nest-consul) - A consul module for Nest framework.
+  - [Nest Consul](https://github.com/nest-cloud/nest-consul) - A consul module for Nest framework.
 - Cache
-  - [Nest Memcached](https://github.com/miaowing/nest-memcached) - A memcached module for Nest framework.
+  - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 
 ## Runtime
 
