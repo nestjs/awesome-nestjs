@@ -117,6 +117,7 @@
   - [Nestjs Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
   - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for nestjs.
+  - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
 
