@@ -151,6 +151,7 @@
 
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
+  - [Nestjs Console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to application.
 
 ## Contribute
 
