@@ -37,6 +37,7 @@
   - [Discord](https://discord.gg/G7Qnnhy)
   - [Telegram (community maintained)](https://t.me/nestjs)
   - [Telegram (Russian speak community)](https://t.me/nest_ru)
+  - [Slack (Korean speak community)](https://nestjs.slack.com)
   - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
