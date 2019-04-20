@@ -76,6 +76,7 @@
   - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
   - [NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
+  - [Awesome Nest Boilerplate 😍](https://github.com/NarHakobyan/awesome-nest-boilerplate), Typescript 💪, Postgresql 🎉, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
 
 ## Projects using NestJS
 
