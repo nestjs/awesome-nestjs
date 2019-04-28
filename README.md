@@ -72,6 +72,7 @@
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - A micro-service solution starter for Nest framework.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
 - Boilerplate
+  - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
@@ -133,6 +134,7 @@
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
+  - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - GraphQL
   - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
 - Pattern
