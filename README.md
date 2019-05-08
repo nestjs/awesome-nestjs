@@ -152,6 +152,8 @@
   - [Nest Consul](https://github.com/nest-cloud/nest-consul) - A consul module for Nest framework.
 - Cache
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
+- Frontend
+  - [NestJS CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud)
 
 ## Runtime
 
