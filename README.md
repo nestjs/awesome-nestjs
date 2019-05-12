@@ -124,6 +124,7 @@
 - Logging
   - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for nestjs.
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
+  - [NestJS Bunyan](https://github.com/eropple/nestjs-bunyan-logger] - Bunyan module for NestJS.
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
 
