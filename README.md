@@ -69,7 +69,7 @@
   - [Passport Auth Nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with nestjs
   - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
   - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
-  - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - A micro-service solution starter for Nest framework.
+  - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
@@ -91,11 +91,9 @@
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Nestjs Config](https://github.com/nestjs-community/nestjs-config) - A Great module to handle project configurations.
-  - [Nest Boot](https://github.com/nest-cloud/nest-boot) - A module to get configurations when the app bootstrap.
   - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
-  - [Nest Consul Service](https://github.com/nest-cloud/nest-consul-service) - Simple service registration and discovery.
+  - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
   - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
-  - [Nest Feign](https://github.com/nest-cloud/nest-feign) - Writing nest framework http clients easier.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
 - State Management
