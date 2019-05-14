@@ -147,7 +147,7 @@
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjs-community/nestjs-braintree) - A module for webhooks and transactions.
 - Consul
-  - [Nest Consul](https://github.com/nest-cloud/nest-consul) - A consul module for Nest framework.
+  - [Nest Consul](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
 - Cache
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 
