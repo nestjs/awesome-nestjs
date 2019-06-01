@@ -106,7 +106,7 @@
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
-  - [Nest CRUD](https://github.com/zMotivat0r/nest-crud) - Nest CRUD for RESTful APIs.
+  - [Nest CRUD](https://github.com/nestjsx/crud) - Nest CRUD for RESTful APIs.
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
