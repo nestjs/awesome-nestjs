@@ -124,8 +124,8 @@
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
-- I18N
-  - [Nest I18N module](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
+- i18n
+  - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 ## Integrations
 
 - Auth
