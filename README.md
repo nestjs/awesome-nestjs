@@ -90,7 +90,7 @@
 
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
-  - [Nestjs Config](https://github.com/nestjs-community/nestjs-config) - A Great module to handle project configurations.
+  - [Nestjs Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
   - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
   - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
   - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
@@ -139,14 +139,14 @@
   - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
 - Pattern
   - [Nest GRPC Transport](https://github.com/fresh8/nestjs-grpc-transport) - GRPC transport layer for the NestJS framework.
-  - [Nestjs typeorm paginate](https://github.com/bashleigh/nestjs-typeorm-paginate) - A simple function and interfaces for pagination
+  - [Nestjs typeorm paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - A simple function and interfaces for pagination
 - Editors
   - VSCode
     - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
 - AMQP
-  - [Nestjs AMQP](https://github.com/nestjs-community/nestjs-amqp) - An amqp connection manager.
+  - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
 - Payment Gateways
-  - [Nestjs Braintree](https://github.com/nestjs-community/nestjs-braintree) - A module for webhooks and transactions.
+  - [Nestjs Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
 - Consul
   - [Nest Consul](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
 - Cache
