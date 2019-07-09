@@ -32,6 +32,8 @@
   - Examples
     - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter
     - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
+- Docs
+  - [Simplified Chinese document）](https://docs.nestjs.cn/)
 - Community
   - [Gitter](https://gitter.im/nestjs/)
   - [Discord](https://discord.gg/G7Qnnhy)
@@ -39,6 +41,7 @@
   - [Telegram (Russian speak community)](https://t.me/nest_ru)
   - [Slack (Korean speak community)](https://nestjs.slack.com)
   - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
+  - [QQ Group (Chinese speak community)](https://jq.qq.com/?_wv=1027&k=5DnXWGR)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
