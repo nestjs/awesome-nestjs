@@ -84,7 +84,9 @@
 
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - :milky_way: EVE Book API
+  - [Ever®](https://github.com/ever-co/ever) - On-demand eommerce platform
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
+  - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture
 
 ## Components & Libraries
 
