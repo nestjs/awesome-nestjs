@@ -33,7 +33,7 @@
     - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter
     - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Docs
-  - [Simplified Chinese document）](https://docs.nestjs.cn/)
+  - [Simplified Chinese Documentation](https://docs.nestjs.cn/)
 - Community
   - [Gitter](https://gitter.im/nestjs/)
   - [Discord](https://discord.gg/G7Qnnhy)
