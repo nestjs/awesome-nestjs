@@ -1,20 +1,26 @@
-<h1 align="center">
-	<img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
+<div align="center">
+  <img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
   <br>
-  <center>
-    <strong>Awesome Nest</strong>
-  </center>
-</h1>
+  <h1>Awesome Nest</h1>
 
-<p align="center">
-	<a href="#resources">Resources</a>
+  <a href="#resources">Resources</a>
   &nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>
+  <a href="contributing.md">Contribution guide</a>
   &nbsp;&nbsp;&nbsp;
-	<a href="https://nestjs.com">Official documentation</a>
-</p>
+  <a href="https://nestjs.com">Official documentation</a>
 
-<br>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
+
+## Contents
+
+- [Resources](#resources)
+- [Projects using NestJS](#projects-using-nestjs)
+- [Components & Libraries](#components--libraries)
+- [Integrations](#integrations)
+- [Runtime](#runtime)
 
 ## Resources
 
@@ -23,18 +29,21 @@
   - [Official Guide](https://docs.nestjs.com)
   - [API Reference](https://docs.nestjs.com)
   - [GitHub Repo](https://github.com/nestjs/nest)
-  - [Release Notes](https://github.com/nestjs/nest/blob/master/CHANGELOG.md)
   - Examples
-    - [Nest starter](https://github.com/nestjs/typescript-starter) Nest framework TypeScript starter
-    - [javascript-starter](https://github.com/nestjs/javascript-starter) Nest framework JavaScript (ES6 / ES7 / ES8) starter.
+    - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter
+    - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Community
   - [Gitter](https://gitter.im/nestjs/)
-  - [Telegram](https://t.me/nestjs)
+  - [Discord](https://discord.gg/G7Qnnhy)
+  - [Telegram (community maintained)](https://t.me/nestjs)
+  - [Telegram (Russian speak community)](https://t.me/nest_ru)
+  - [Slack (Korean speak community)](https://nestjs.slack.com)
+  - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
-  - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) Teach how to use NestJS step by step
+  - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
-  - [Nestjs30Days](https://github.com/m24927605/Nestjs30Days) Learn the nestjs framework in 30 days.
+  - [Nestjs30Days](https://github.com/m24927605/Nestjs30Days) - Learn the Nestjs framework in 30 days.
   - [Build a geofencing web app using Nest.js and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
   - [Building a chat bot with Nest.js and Dialogflow](https://pusher.com/tutorials/chat-bot-nestjs)
   - [Build live comments with sentiment analysis using Nest.js](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
@@ -42,31 +51,42 @@
   - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
   - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
   - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
+  - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
+  - [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
+  - [Building a real time web applications using Nest.js and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
+  - [Video Tutorials - Building a full-stack blog with NestJs, Angular and Angular Material](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
 - Examples
-  - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
-  - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js
-  - [simple-todos](https://github.com/BruceHem/simple-todos) A simple web application powered by Nuxt.js :green_heart: & Nest Framework :heart_eyes_cat:
-  - [Realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) Exemplary real world backend API built with NestJS + TypeORM
-  - [mant](https://github.com/vladotesanovic/mant) New Stack on the Market to beat them all :ring: MANT.
-  - [rest-nestjs-postgres](https://github.com/crudjs/rest-nestjs-postgres) CrudJS implemented as a REST API, using Nest.js and Postgres.
-  - [nest-permissions-seed](https://github.com/EndyKaufman/nest-permissions-seed) A simple application demonstrating the basic usage of permissions with NestJS.
-  - [angular-nestjs-rendering](https://github.com/Innovic-io/angular-nestjs-rendering) Angular 5+ server side rendering using NestJS
-  - [angular-contact-manager-app](https://github.com/Abdallah-khalil/ContactManagerApp) A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT 
-  - [books-library-api](https://github.com/Abdallah-khalil/Books-Library-API) A restful API with nestjs, mongoose ,, Passport, JWT
-  - [passport-auth-nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) Passport strategies and oauth integration built with nestjs
-  - [lynx](https://github.com/mentos1386/lynx) Opinionated Framework built on top of NestJS and TypeORM
+  - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
+  - [Nestjs API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js
+  - [Simple Todos](https://github.com/BruceHem/simple-todos) - A simple web application powered by Nuxt.js :green_heart: & Nest Framework :heart_eyes_cat:
+  - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM
+  - [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
+  - [REST Nestjs Postgres](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using Nest.js and Postgres.
+  - [Nest Permissions Seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
+  - [Angular Nestjs Rendering](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS
+  - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT
+  - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with nestjs, mongoose ,, Passport, JWT
+  - [Passport Auth Nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with nestjs
+  - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
+  - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
+  - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
+  - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
 - Boilerplate
-  - [Nest-BFF](https://github.com/ahrnee/nestjs-bff) A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
-  - [nestjs-template](https://github.com/Saluki/nestjs-template) Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments 
-- Books
-- Conferences
+  - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
+  - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
+  - [Nestjs Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments
+  - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
+  - [NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
+  - [Awesome Nest Boilerplate 😍](https://github.com/NarHakobyan/awesome-nest-boilerplate), Typescript 💪, Postgresql 🎉, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
+  - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-client-starter) - Starter project for NestJS 😻 includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 
 ## Projects using NestJS
 
 - Open Source
-  - [evebook/api](https://github.com/evebook/api) :milky_way: EVE Book API
-  - [roche/lxdhub](https://github.com/Roche/lxdhub): Management system for Linux Containers (LXC).
-- Enterprise Usage
+  - [EVE Book API](https://github.com/evebook/api) - :milky_way: EVE Book API
+  - [Ever®](https://github.com/ever-co/ever) - On-demand eommerce platform
+  - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
+  - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture
 
 ## Components & Libraries
 
@@ -78,57 +98,86 @@
 - i18n
 - Custom Events
 - Persistence
+  - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
+  - [Nestjs Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
+  - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
+  - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
+  - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
+  - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
+  - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
 - State Management
-  - [ngrx-nest](https://github.com/derekkite/ngrx-nest) ngrx/store and ngrx/effects on the server using the nest framework.
+  - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
-  - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) An unofficial TypeScript StyleGuide
-- Migration
+  - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
 - Web Sockets
   - [Oficial](https://docs.nestjs.com/websockets/gateways)
 - Mail
-  - [nest-mailer](https://github.com/partyka95/nest-mailer) A mailer module for Nest framework
+  - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
-  - [swagger](https://github.com/nestjs/swagger) This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_
-  - [nest-crud](https://github.com/zMotivat0r/nest-crud) Nest CRUD for RESTful APIs
+  - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
+  - [Nest CRUD](https://github.com/nestjsx/crud) - Nest CRUD for RESTful APIs.
 - Middleware
-  - [nest-middlewares](https://github.com/wbhob/nest-middlewares) Common, injectable middlewares for NestJS.
+  - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
-  - [nestjs-flub](https://github.com/shekohex/nestjs-flub)  Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:
-  - [nest-raven](https://github.com/mentos1386/nest-raven) Sentry Raven Module for Nest.js Framework
+  - [Nestjs Flub](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
+  - [Nest Raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for Nest.js Framework.
 - Lint
-  - [eslint-plugin-nestjs](https://github.com/unlight/eslint-plugin-nestjs) ESLint rules for nestjs framework
+  - [Eslint Plugin Nestjs](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for nestjs framework.
 - Router🚦
-  - [nest-router](https://github.com/shekohex/nest-router) Router Module For Nestjs Framework 🚦 🚀
+  - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For Nestjs Framework 🚦 🚀
   	for organizing your Routes, creating a routes tree, and more.
 - Dialogflow :satellite:
-  - [nestjs-dialogflow](https://github.com/adrien2p/nestjs-dialogflow) Dialog flow module that simplify the web hook handling for your NLP application using NestJS
+  - [Nestjs Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
-  - [nest-morgan](https://github.com/mentos1386/nest-morgan) Morgan module for nestjs
-
+  - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for nestjs.
+  - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
+- Monitoring
+  - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
+- i18n
+  - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 ## Integrations
 
 - Auth
-  - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) NestJS Framework web application with Auth0.
+  - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
 - Databases
-  - [typeorm](https://github.com/nestjs/typeorm) A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)]
-  - [nest-mongoose](https://github.com/nestjs/mongoose)  A Mongoose module for Nest framework
-  - [nest-mysql](https://github.com/cdiaz/nest-mysql) Example usage of MySQL with the Nest framework.
-  - [nest-sequelize-jwt](https://github.com/adrien2p/nest-js-sequelize-jwt) Starter kit Nest + Sequelize + jwt
+  - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+  - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
+  - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
+  - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - GraphQL
-  - [nest-js-graphql](https://github.com/adrien2p/nest-js-graphql) Nest-js starter which implement graphql module
+  - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
 - Pattern
-  - [nest-grpc-transport](https://github.com/fresh8/nestjs-grpc-transport) GRPC transport layer for the NestJS framework
+  - [Nest GRPC Transport](https://github.com/fresh8/nestjs-grpc-transport) - GRPC transport layer for the NestJS framework.
+  - [Nestjs typeorm paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - A simple function and interfaces for pagination
 - Editors
   - VSCode
-    - [nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) Vscode nestjs code Snippets
+    - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
+- AMQP
+  - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
+- Payment Gateways
+  - [Nestjs Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
+- Consul
+  - [Nest Consul](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
+- Cache
+  - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
+- Frontend
+  - [NestJS CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud)
 
 ## Runtime
 
 - Command Line / Terminal
 
-  - [cli](https://github.com/nestjs/nest-cli) CLI tool for Nestjs applications
-  - [yeoman generator](https://github.com/ashinzekene/generator-nestjs-app) A yeoman generator for nestsjs apps
+  - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
+  - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
+  - [Nestjs Console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to application.
 
-### [Feel free to add your projects, examples, videos, tutorials, books, etc.](./contributing.md)
+## Contribute
 
-<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://camo.githubusercontent.com/da896acd40e1f4f275c2da6e1d830b2865803fc8/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f702f7a65726f2f312e302f38387833312e706e67" alt="CC0" data-canonical-src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="max-width:100%;"></a>
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, juliandavidmr has waived all copyright and
+related or neighboring rights to this work.
