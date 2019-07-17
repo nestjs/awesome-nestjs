@@ -73,6 +73,7 @@
 - Utilities
   - [nest-cqrs](https://github.com/nestjs/cqrs) A lightweight CQRS module for Nest framework
   - [nestjs-config](https://github.com/nestjs-community/nestjs-config) A Great module to handle project configurations
+  - [nest-automapper](https://github.com/nartc/nest-automapper) A lightweight AutoMapper for Nest framework (early development, issues and contributions are welcomed)
 - Typescript
 - i18n
 - Custom Events
