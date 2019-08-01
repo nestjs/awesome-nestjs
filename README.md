@@ -16,11 +16,14 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Resources](#resources)
 - [Projects using NestJS](#projects-using-nestjs)
 - [Components & Libraries](#components--libraries)
 - [Integrations](#integrations)
 - [Runtime](#runtime)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Resources
 
@@ -99,6 +102,7 @@
   - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
+  - [Nestjs Redis](https://github.com/kyknow/nestjs-redis) - A Redis Client Module for Nest.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
