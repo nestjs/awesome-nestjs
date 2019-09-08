@@ -92,6 +92,7 @@
 ## Components & Libraries
 
 - Utilities
+  - [Neconfig](https://github.com/maximpyshko/neconfig) - Configuration module for NestJS framework.
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Nestjs Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
   - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
