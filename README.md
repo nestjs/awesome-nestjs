@@ -16,14 +16,11 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Resources](#resources)
 - [Projects using NestJS](#projects-using-nestjs)
 - [Components & Libraries](#components--libraries)
 - [Integrations](#integrations)
 - [Runtime](#runtime)
-- [Contribute](#contribute)
-- [License](#license)
 
 ## Resources
 
