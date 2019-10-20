@@ -153,6 +153,7 @@
   - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
+  - [Nestjs Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
 - Consul
   - [Nest Consul](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
 - Cache
