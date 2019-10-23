@@ -141,6 +141,7 @@
   - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
+  - [Nest Couchbase](https://github.com/scalio/nest-couchbase) - Couchbase module for Nest framework.
 - GraphQL
   - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
 - Pattern
