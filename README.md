@@ -145,7 +145,8 @@
   - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
 - Pattern
   - [Nest GRPC Transport](https://github.com/fresh8/nestjs-grpc-transport) - GRPC transport layer for the NestJS framework.
-  - [Nestjs typeorm paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - A simple function and interfaces for pagination
+  - [Nestjs typeorm paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - A simple function and interfaces for pagination  
+  - [Nest JSON RPC Transport](https://github.com/Insidexa/nestjs-rpc) - JSON RPC transport layer for the NestJS framework.
 - Editors
   - VSCode
     - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
