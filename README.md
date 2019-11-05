@@ -56,6 +56,7 @@
   - [Building a real time web applications using Nest.js and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
   - [Video Tutorials - Building a full-stack blog with NestJs, Angular and Angular Material](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
 - Examples
+  - [TwitterBot](https://github.com/HedCET/crawlamma) - Twitter Bot for Retweet
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
   - [Nestjs API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js
   - [Simple Todos](https://github.com/BruceHem/simple-todos) - A simple web application powered by Nuxt.js :green_heart: & Nest Framework :heart_eyes_cat:
