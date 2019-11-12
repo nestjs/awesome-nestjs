@@ -132,6 +132,8 @@
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
+- Event
+  - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
 ## Integrations
 
 - Auth
