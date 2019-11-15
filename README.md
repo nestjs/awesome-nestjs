@@ -105,7 +105,7 @@
 - Code Style
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
 - Web Sockets
-  - [Oficial](https://docs.nestjs.com/websockets/gateways)
+  - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
