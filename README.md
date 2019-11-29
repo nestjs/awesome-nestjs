@@ -129,6 +129,7 @@
   - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for nestjs.
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
   - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for nestjs 😮 Log with request context in any place 😍
+  - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS 💪
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
