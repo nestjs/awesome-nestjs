@@ -102,6 +102,7 @@
   - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
+  - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS 💪
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
@@ -129,7 +130,6 @@
   - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for nestjs.
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for nestjs
   - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for nestjs 😮 Log with request context in any place 😍
-  - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS 💪
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
