@@ -137,6 +137,8 @@
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
+- Auth
+  - [Nestjs Session](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session)
 
 ## Integrations
 
