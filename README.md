@@ -68,6 +68,7 @@
   - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT
   - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with nestjs, mongoose ,, Passport, JWT
   - [Passport Auth Nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with nestjs
+  - [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
   - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
   - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
