@@ -180,6 +180,8 @@
   - [NestJS CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud)
 - Scheduling
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework :cow:
+- Workflow Automation
+  - [Zeebe microservices](https://github.com/pay-k/nestjs-zeebe)
 
 ## Runtime
 
