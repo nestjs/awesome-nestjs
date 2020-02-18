@@ -55,6 +55,7 @@
   - [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
   - [Building a real time web applications using Nest.js and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
   - [Video Tutorials - Building a full-stack blog with NestJs, Angular and Angular Material](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
+  - [Free Video Course - The complete NestJS developer. Enterprise Node.js framework](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
   - [Nestjs API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js
@@ -67,11 +68,13 @@
   - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular , Nestjs ,  Mongoose , Passport, JWT
   - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with nestjs, mongoose ,, Passport, JWT
   - [Passport Auth Nestjs](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with nestjs
+  - [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
   - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM
   - [NestJS Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
   - [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams...
+  - [Serverless-nestjs-TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to nestjs using the serverless framework with TypeORM 😎.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
@@ -83,12 +86,15 @@
   - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-client-starter) - Starter project for NestJS 😻 includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
   - [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible 😻
   - [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
+  - [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using Nestjs MongoDB Graphql and type-graphql [https://typegraphql.ml/](https://typegraphql.ml/) inspired the type schema first approach
+  - [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 
 ## Projects using NestJS
 
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - :milky_way: EVE Book API
-  - [Ever®](https://github.com/ever-co/ever) - On-demand eommerce platform
+  - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+  - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
   - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture
 
@@ -99,20 +105,24 @@
   - [Nestjs Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
   - [Nest Consul Config](https://github.com/nest-cloud/nest-consul-config) - A module to get configurations from consul kv.
   - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
+  - [Nestjs Easy Config](https://github.com/rubiin/nestjs-easyconfig) - A nestjs module for managing configs that provides some sleek features.
   - [Nest Consul Loadbalance](https://github.com/nest-cloud/nest-consul-loadbalance) - A software load balancers primary for rest calls.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
+  - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS 💪
+  - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
 - Web Sockets
-  - [Oficial](https://docs.nestjs.com/websockets/gateways)
+  - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
   - [Nest CRUD](https://github.com/nestjsx/crud) - Nest CRUD for RESTful APIs.
+  - [Nestjs-Query](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
@@ -136,6 +146,8 @@
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
+- Auth
+  - [Nestjs Session](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session)
 
 ## Integrations
 
@@ -177,6 +189,11 @@
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
   - [Nestjs Console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to application.
+  
+  
+## Meetups
+
+- [NestJS London](https://www.meetup.com/NestJS-London/)
 
 ## Contribute
 
