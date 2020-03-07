@@ -88,6 +88,7 @@
   - [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
   - [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using Nestjs MongoDB Graphql and type-graphql [https://typegraphql.ml/](https://typegraphql.ml/) inspired the type schema first approach
   - [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
+  - [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGrapQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
 
 ## Projects using NestJS
 
