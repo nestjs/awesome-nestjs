@@ -129,6 +129,7 @@
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
   - [Nestjs Flub](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
+  - [Nestjs Enlighten](https://github.com/ozkanonur/nestjs-enlighten) - A laravel-ignition like error page for NestJS Framework
   - [Nest Raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for Nest.js Framework.
 - Lint
   - [Eslint Plugin Nestjs](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for nestjs framework.
