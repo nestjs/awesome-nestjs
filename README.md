@@ -172,6 +172,8 @@
     - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
 - AMQP
   - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
+- EventStore
+  - [Nestjs EventStore](https://github.com/juicycleff/nestjs-event-store) - An evenstore.org module for NestJs CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
   - [Nestjs Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
