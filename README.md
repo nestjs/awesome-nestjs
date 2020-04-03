@@ -172,6 +172,7 @@
     - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
 - AMQP
   - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
+  - [Nestjs RabbitMQ] (https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - EventStore
   - [Nestjs EventStore](https://github.com/juicycleff/nestjs-event-store) - An evenstore.org module for NestJs CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
 - Payment Gateways
