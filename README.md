@@ -189,6 +189,8 @@
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework :cow:
 - Workflow Automation
   - [Zeebe microservices](https://github.com/pay-k/nestjs-zeebe)
+- Chatbots
+  - [NestJS Telegraf](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf)
 
 ## Runtime
 
