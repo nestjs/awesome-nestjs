@@ -39,6 +39,8 @@
   - [Telegram (Russian speak community)](https://t.me/nest_ru)
   - [Slack (Korean speak community)](https://nestjs.slack.com)
   - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
+- Talks
+  - [Revealing framework fundamentals: NestJS behind the curtain by Kamil Myśliwiec](https://www.youtube.com/watch?v=jo-1EUxMmxc)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
