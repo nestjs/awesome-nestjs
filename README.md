@@ -14,13 +14,15 @@
   </a>
 </div>
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [Resources](#resources)
 - [Projects using NestJS](#projects-using-nestjs)
 - [Components & Libraries](#components--libraries)
 - [Integrations](#integrations)
 - [Runtime](#runtime)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Resources
 
@@ -43,7 +45,7 @@
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
-  - [Nestjs30Days](https://github.com/m24927605/Nestjs30Days) - Learn the Nestjs framework in 30 days.
+  - [NestJS 30 Days](https://github.com/m24927605/Nestjs30Days) - Learn the Nestjs framework in 30 days.
   - [Build a geofencing web app using Nest.js and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
   - [Building a chat bot with Nest.js and Dialogflow](https://pusher.com/tutorials/chat-bot-nestjs)
   - [Build live comments with sentiment analysis using Nest.js](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
@@ -54,7 +56,7 @@
   - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
   - [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
   - [Building a real time web applications using Nest.js and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
-  - [Video Tutorials - Building a full-stack blog with NestJs, Angular and Angular Material](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL)
+  - [Video Tutorials](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL) - Building a full-stack blog with NestJs, Angular and Angular Material.
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using Nest
   - [Nestjs API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js
@@ -118,8 +120,7 @@
 - Lint
   - [Eslint Plugin Nestjs](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for nestjs framework.
 - Router🚦
-  - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For Nestjs Framework 🚦 🚀
-  	for organizing your Routes, creating a routes tree, and more.
+  - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For Nestjs Framework for organizing your Routes, creating a routes tree, and more.
 - Dialogflow :satellite:
   - [Nestjs Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
@@ -129,8 +130,9 @@
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
-- RBAC(Role-based access control)
+- RBAC (Role-based access control)
   - [Nest RBAC](https://github.com/sergey-telpuk/nestjs-rbac) - RBAC module for NestJS, with a dynamic storage and cache.
+
 ## Integrations
 
 - Auth
@@ -175,5 +177,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, juliandavidmr has waived all copyright and
+To the extent possible under law, [juliandavidmr](https://github.com/juliandavidmr/awesome-nestjs/) has waived all copyright and
 related or neighboring rights to this work.
