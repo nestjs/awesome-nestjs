@@ -94,6 +94,8 @@
   - [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using Nestjs MongoDB Graphql and type-graphql [https://typegraphql.ml/](https://typegraphql.ml/) inspired the type schema first approach
   - [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
   - [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGrapQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
+  - [NestJS UDP and GraphQL](https://github.com/agborkowski/nestjs-sample-udp-server) - Its a example implementation of **UDP** protocol with node dgram as a NestJs module and DI, to receive packet from IoT devices and pass them by **GraphQL** (Apollo Server) subscriptions to Web
+  - [NestJS InMemory Shopping Cart](https://github.com/agborkowski/nestjs-7-cart-example) - Basic proof of concept for shopping cart. **Tests** are focused on Cart **service**, e2e endpoints are documented in Postman
 
 ## Projects using NestJS
 
