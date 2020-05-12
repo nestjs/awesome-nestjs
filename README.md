@@ -170,6 +170,7 @@
   - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
+  - [Nest Transact](https://github.com/alphamikle/nest_transact) - Simplest transactions using with Nest and TypeORM
 - GraphQL
   - [Nestjs Graphql](https://github.com/adrien2p/nest-js-graphql) - Nest-js starter which implement graphql module.
   - [GoLevelUp NestJS GraphQL Request](https://github.com/golevelup/nestjs/tree/master/packages/graphql-request) - Easily inject and work with GraphQLClient instances from server side NestJS code. Useful for interacting with third party GraphQL APIs
