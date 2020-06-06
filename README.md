@@ -158,6 +158,7 @@
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
+  - [Nest Pg PubSub](https://github.com/jkcorrea/nestjs-pg-pubsub) - Postgres [async notifications](https://www.postgresql.org/docs/9.3/libpq-notify.html) for NestJS.
 - Auth
   - [Nestjs Session](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session)
 - RBAC (Role-based access control)
