@@ -81,8 +81,8 @@
   - [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams.
   - [Serverless-Lambda-FirestoreDB](https://github.com/mamori-i-japan/mamori-i-japan-api) - A fully SERVERLESS in-production application with AWS Lambda, FirestoreDB, Firebase Auth, Winston Logger, Swagger. Also implements admin role authorization.
   - [Serverless-nestjs-TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
-  - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
-  - [Nestjs-Elasticsearch-Vue](https://github.com/kop7/nest-elasticsearch-vue) Autocomplete search with Nestjs, Elasticsearch and Vue.
+  - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
+  - [Nestjs-Elasticsearch-Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with Nestjs, Elasticsearch and Vue.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
