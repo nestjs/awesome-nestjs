@@ -138,6 +138,7 @@
 - Errors
   - [Nestjs Flub](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
   - [Nestjs Enlighten](https://github.com/ozkanonur/nestjs-enlighten) - A laravel-ignition like error page for NestJS Framework
+  - [Nest Rate Limiter](https://github.com/ozkanonur/nestjs-rate-limiter) - A highly configurable rate limiter library
   - [Nest Raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for NestJS Framework.
 - Lint
   - [Eslint Plugin Nestjs](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for NestJS framework.
