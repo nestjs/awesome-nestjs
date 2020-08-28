@@ -174,7 +174,7 @@
   - [Nest Typeorm Factories](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
   - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework.
-  - [Nest MikroORM](https://github.com/dario1985/nestjs-mikro-orm) - A [MikroORM](https://mikro-orm.io/)0 module for Nest Framework.
+  - [Nest MikroORM](https://github.com/dario1985/nestjs-mikro-orm) - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
 - GraphQL
