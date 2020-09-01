@@ -207,7 +207,7 @@
 - Chatbots
   - [NestJS Telegraf](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf).
 - File Storage
-  - [NestJS Storage](https://github.com/codebrewlab/nestjs-storage) - manage file Storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for Nest Framework 
+  - [NestJS Storage](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for Nest Framework.
 
 ## Runtime
 
