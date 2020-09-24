@@ -132,6 +132,7 @@
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
   - [Nest CRUD](https://github.com/nestjsx/crud) - Nest CRUD for RESTful APIs.
+  - [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
   - [Nest-Query](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
