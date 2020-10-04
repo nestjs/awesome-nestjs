@@ -182,7 +182,6 @@
   - [GoLevelUp NestJS GraphQL Request](https://github.com/golevelup/nestjs/tree/master/packages/graphql-request) - Easily inject and work with GraphQLClient instances from server side NestJS code. Useful for interacting with third party GraphQL APIs
   - [GoLevelUp NestJS Hasura](https://github.com/golevelup/nestjs/tree/master/packages/hasura) - NestJS integrations for working with [Hasura](https://hasura.io/) which provides realtime GraphQL APIs over your Postgres Database
 - Pattern
-  - [Nest GRPC Transport](https://github.com/fresh8/nestjs-grpc-transport) - GRPC transport layer for the NestJS framework.
   - [Nest typeorm paginate](https://github.com/nestjsx/nestjs-typeorm-paginate) - A simple function and interfaces for pagination. 
   - [Nest JSON RPC Transport](https://github.com/Insidexa/nestjs-rpc) - JSON RPC transport layer for the NestJS framework.
 - Editors
