@@ -161,9 +161,13 @@
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
 - Auth
   - [Nestjs Session](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session)
+- ACM (Access Control Management)
+  - [Nestjs IACry](https://github.com/AlexanderC/nestjs-iacry) - An Identity and Access Control (Management) module for NestJS highly inspired by the [AWS IAM](https://aws.amazon.com/iam/).
 - RBAC (Role-based access control)
   - [Nest RBAC](https://github.com/sergey-telpuk/nestjs-rbac) - RBAC module for NestJS, with a dynamic storage and cache.
   - [Nest Keycloak Admin](https://github.com/relevantfruit/nestjs-keycloak-admin) - Keycloak Admin Client with support for User Managed Access protocol.
+- Multi Tenancy
+  - [Nestjs MTenant](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
 
 ## Integrations
 
