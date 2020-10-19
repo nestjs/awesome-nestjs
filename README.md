@@ -204,6 +204,7 @@
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [Nest CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
+  - [Nest AdminBro](https://github.com/SoftwareBrothers/admin-bro-nestjs) - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro), an automatic admin interface which can be plugged into your application.
 - Scheduling
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 - Workflow Automation
