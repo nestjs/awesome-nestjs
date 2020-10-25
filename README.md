@@ -52,7 +52,6 @@
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
   - [NestJS30Days](https://github.com/m24927605/Nestjs30Days) - Learn the NestJS framework in 30 days.
   - [Build a geofencing web app using NestJS and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
-  - [Building a chat bot with NestJS and Dialogflow](https://pusher.com/tutorials/chat-bot-nestjs)
   - [Build live comments with sentiment analysis using NestJS](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
   - [Build a chat app with sentiment analysis using NestJS](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
   - [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
