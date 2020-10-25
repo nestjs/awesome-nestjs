@@ -1,7 +1,5 @@
 ## Resource type _(required)_
 
-> Check only one item.
-
 - [ ] GitHub Repository:
     - [ ] **(Required)** I confirm that the GitHub repository has more than **10 stars**.
     - [ ] **(Required)** The repository is not archived.
