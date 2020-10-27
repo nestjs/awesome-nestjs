@@ -129,7 +129,7 @@
 - Web Sockets
   - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
-  - [Mailman 📮](https://github.com/squareboat/nest-mailman) - The mailer package for your NestJS Applications 📮
+  - [Mailman](https://github.com/squareboat/nest-mailman) - The mailer package for your NestJS Applications 📮
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
@@ -138,7 +138,7 @@
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
-  - [Eyewitness 👀 ](https://github.com/squareboat/nest-eyewitness) - Receive error reports directly to your inbox whenever any exception is witnessed 👀 in your NestJS application.
+  - [Eyewitness](https://github.com/squareboat/nest-eyewitness) - Receive error reports directly to your inbox whenever any exception is witnessed 👀 in your NestJS application.
   - [Nest Flub](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
   - [Nest Enlighten](https://github.com/ozkanonur/nestjs-enlighten) - A laravel-ignition like error page for NestJS Framework
   - [Nest Rate Limiter](https://github.com/ozkanonur/nestjs-rate-limiter) - A highly configurable rate limiter library.
