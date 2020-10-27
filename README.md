@@ -129,7 +129,7 @@
 - Web Sockets
   - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
-  - [Mailman 📮](https://github.com/squareboat/nest-mailman) - 📮 The mailer package for your NestJS Applications.
+  - [Mailman 📮](https://github.com/squareboat/nest-mailman) - The mailer package for your NestJS Applications 📮
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
