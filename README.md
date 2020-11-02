@@ -167,7 +167,9 @@
 - RBAC (Role-based access control)
   - [Nest RBAC](https://github.com/sergey-telpuk/nestjs-rbac) - RBAC module for NestJS, with a dynamic storage and cache.
   - [Nest Keycloak Admin](https://github.com/relevantfruit/nestjs-keycloak-admin) - Keycloak Admin Client with support for User Managed Access protocol.
-
+- Multi Tenancy
+  - [Nestjs MTenant](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
+  
 ## Integrations
 
 - Auth
