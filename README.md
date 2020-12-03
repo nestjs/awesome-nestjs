@@ -57,6 +57,7 @@
   - [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
   - [Build a realtime table with DataTables and NestJS](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
   - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
+  - [NestJS Hasura Integration via Schema Stitching And JWT Auth](https://blog.exceptionfound.com/2020/12/03/nestjs-hasura-integration-via-schema-stitching/)
   - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
   - [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
   - [Building a real time web applications using NestJS and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
