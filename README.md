@@ -111,6 +111,7 @@
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
   - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
   - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
+  - [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
 
 ## Components & Libraries
 
