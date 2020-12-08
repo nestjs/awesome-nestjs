@@ -84,6 +84,7 @@
   - [Serverless-Lambda-FirestoreDB](https://github.com/mamori-i-japan/mamori-i-japan-api) - A fully SERVERLESS in-production application with AWS Lambda, FirestoreDB, Firebase Auth, Winston Logger, Swagger. Also implements admin role authorization.
   - [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
+  - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS
 - Boilerplate
   - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
