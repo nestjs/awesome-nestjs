@@ -139,6 +139,7 @@
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
   - [Nest-Query](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
+  - [Nestia](https://github.com/samchon/nestia) - Automatic SDK generator for the clients.
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
