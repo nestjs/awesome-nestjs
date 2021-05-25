@@ -121,7 +121,7 @@
 
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
-  - [Typed CQRS](https://github.com/valueadd-poland/nestjs-packages/tree/master/packages/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results
+  - [Typed CQRS](https://github.com/valueadd-poland/nestjs-packages/tree/master/packages/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
   - [Nest Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
   - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A Node.js micro-service solution based on Consul, writing by Typescript language and NestJS framework.
   - [Nest Easy Config](https://github.com/rubiin/nestjs-easyconfig) - A NestJS module for managing configs that provides some sleek features.
