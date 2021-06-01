@@ -104,6 +104,7 @@
   - [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
   - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes TypeORM, email verification, Passport-JWT authentication, Swagger and more.
   - [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
+  - [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - A production-ready NestJS boilerplate by MonstarLab. Core features: JWT Authentication, RBAC Authorization, TypeORM, winston logger, Pagination, Docker Ready, Auto-generated Swagger. Minor features: prettier, commit-linting husky hooks, SonarCloud github actions, docker-compose.
 
 ## Projects using NestJS
 
