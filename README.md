@@ -86,6 +86,7 @@
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
   - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
   - [Nestjs-Elasticsearch-Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with Nestjs, Elasticsearch and Vue.
+  - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 
 - Boilerplate
   - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
@@ -122,6 +123,7 @@
 
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
+  - [Typed CQRS](https://github.com/valueadd-poland/nestjs-packages/tree/master/packages/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
   - [Nest Config](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
   - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A Node.js micro-service solution based on Consul, writing by Typescript language and NestJS framework.
   - [Nest Easy Config](https://github.com/rubiin/nestjs-easyconfig) - A NestJS module for managing configs that provides some sleek features.
