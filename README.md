@@ -85,7 +85,7 @@
   - [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
   - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
-  - [Nestjs-Elasticsearch-Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with Nestjs, Elasticsearch and Vue.
+  - [NestJS Elasticsearch Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
   - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 
 - Boilerplate
