@@ -174,7 +174,7 @@
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Currency
-  - [Nestjs Cashify](https://github.com/vahidvdn/nestjs-cashify) - Currency conversion module for nestjs.
+  - [Nestjs Cashify](https://github.com/vahidvdn/nestjs-cashify) - Currency conversion module for NestJS.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
 - Auth
