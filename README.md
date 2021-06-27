@@ -173,6 +173,8 @@
   - [Nest X-Ray](https://github.com/narando/nest-xray) - Record incoming and outgoing request for [AWS X-Ray](https://aws.amazon.com/xray/), also supports custom instrumentation.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
+- Currency
+  - [Nestjs Cashify](https://github.com/vahidvdn/nestjs-cashify) - Currency conversion module for nestjs.
 - Event
   - [Nest Event](https://github.com/yak0/nest-event) - Event handling with decorators for NestJS Framework.
 - Auth
