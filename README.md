@@ -122,6 +122,16 @@
 
 ## Components & Libraries
 
+- FileSystems
+  - [Nest Storage](https://github.com/squareboat/nest-storage) - A multi-disk multi-driver filesystem manager for NestJS. 💾
+
+- Queue
+  - [SQB Nest Queue](https://github.com/squareboat/nest-queue) - An expressive and beautiful queue package 🦋 for your NestJS applications.
+  - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
+
+- Console (CLI)
+  - [SQB Nest Console](https://github.com/squareboat/nest-console) - Create beautiful CLI commands in your NestJS applications.
+
 - Utilities
   - [Nest CQRS](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
   - [Typed CQRS](https://github.com/valueadd-poland/nestjs-packages/tree/master/packages/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
@@ -129,7 +139,6 @@
   - [Nest Consul Service](https://github.com/nest-cloud/nestcloud) - A Node.js micro-service solution based on Consul, writing by Typescript language and NestJS framework.
   - [Nest Easy Config](https://github.com/rubiin/nestjs-easyconfig) - A NestJS module for managing configs that provides some sleek features.
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
-  - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
   - [Nest Toolbox](https://github.com/lupu60/nestjs-toolbox) - The repository contains a suite of components and modules for NestJS.
   - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS.
   - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
@@ -218,6 +227,7 @@
   - [Nest Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
   - [GoLevelUp Nest Stripe](https://github.com/golevelup/nestjs/tree/master/packages/stripe) - Injectable client plus autowired Stripe webhook handling for deeper integrations.
 - Cache
+  - [Nest Cache](https://github.com/squareboat/nest-cache) - A beautiful and expressive cache package for your NestJS application.
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [Nest CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
