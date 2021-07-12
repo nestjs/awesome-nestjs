@@ -113,7 +113,7 @@
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - EVE Book API.
   - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
-  - [Feednext](https://feednext.io) - Open-Source Social Media Application.
+  - [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
   - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
   - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
