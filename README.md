@@ -4,11 +4,11 @@
   <br>
   <h1>Awesome Nest</h1>
 
-  <a href="#resources">Resources</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="contributing.md">Contribution guide</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nestjs.com">Official documentation</a>
+<a href="#resources">Resources</a>
+&nbsp;&nbsp;&nbsp;
+<a href="contributing.md">Contribution guide</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://nestjs.com">Official documentation</a>
 
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -64,6 +64,7 @@
   - [Video Tutorials](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL) - Building a full-stack blog with NestJS, Angular and Angular Material.
   - [Free Video Course](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete NestJS developer. Enterprise Node.js framework.
 - Examples
+
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
   - [NestJS API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js.
   - [Simple Todos](https://github.com/BruceHem/simple-todos) - A simple web application powered by Nuxt.js :green_heart: & Nest Framework.
@@ -161,7 +162,7 @@
   - [Eslint Plugin NestJS](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for NestJS framework.
 - Router🚦
   - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For NestJS Framework 🚦 🚀
-  	for organizing your Routes, creating a routes tree, and more.
+    for organizing your Routes, creating a routes tree, and more.
 - Dialogflow :satellite:
   - [NestJS Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
@@ -188,11 +189,12 @@
   - [Nestjs MTenant](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
 - Microservice
   - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
-  
+
 ## Integrations
 
 - Auth
   - [Nest + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
+  - [Nest Firebase Auth](https://github.com/tfarras/nestjs-firebase-auth) - NestJS Passport Strategy for Firebase Auth using Firebase Admin SDK
 - Databases
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
   - [Nest Typeorm Factories](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
@@ -236,6 +238,8 @@
   - [Nest Storage](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
 - Cloud Managed Configuration
   - [Nonfig Config](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
+- SDK
+  - [Nest Firebase Admin](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/)
 
 ## Runtime
 
@@ -244,8 +248,7 @@
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for NestJS applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
   - [NestJS Console](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
-  
-  
+
 ## Meetups
 
 - [NestJS London](https://www.meetup.com/NestJS-London/)
