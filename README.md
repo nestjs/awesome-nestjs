@@ -147,6 +147,7 @@
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
+  - [AsyncAPI](https://github.com/flamewow/nestjs-asyncapi) - AsyncAPI module for NestJS.
   - [Nest-Query](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
   - [Nestia](https://github.com/samchon/nestia) - Automatic SDK generator for the clients.
 - Middleware
@@ -161,7 +162,7 @@
   - [Eslint Plugin NestJS](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for NestJS framework.
 - Router🚦
   - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For NestJS Framework 🚦 🚀
-  	for organizing your Routes, creating a routes tree, and more.
+    for organizing your Routes, creating a routes tree, and more.
 - Dialogflow :satellite:
   - [NestJS Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
