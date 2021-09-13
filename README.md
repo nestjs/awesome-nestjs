@@ -142,6 +142,7 @@
   - [Official](https://docs.nestjs.com/websockets/gateways)
 - Redis
   - [Nest Ioredis](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
+  - [Nest Redis Cluster](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for NestJS framework.
 - Mail
   - [Mailman](https://github.com/squareboat/nest-mailman) - The only 📮 mailer package you need for your NestJS Applications.
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
