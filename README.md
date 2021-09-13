@@ -239,7 +239,7 @@
 - Cloud Managed Configuration
   - [Nonfig Config](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
 - SDK
-  - [Nest Firebase Admin](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/)
+  - [Nest Firebase Admin](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/).
 
 ## Runtime
 
