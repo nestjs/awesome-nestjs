@@ -219,7 +219,7 @@
   - [Nest MikroORM](https://github.com/mikro-orm/nestjs) - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
-  - [Nest Prisma](https://www.prisma.io/nestjs) - A Fully Type-Safe ORM for [Nest](https://docs.nestjs.com/recipes/prisma).
+  - [Nest Prisma](https://www.prisma.io/nestjs) - A Fully Type-Safe ORM for [NestJS](https://docs.nestjs.com/recipes/prisma).
 - GraphQL
   - [GoLevelUp NestJS GraphQL Request](https://github.com/golevelup/nestjs/tree/master/packages/graphql-request) - Easily inject and work with GraphQLClient instances from server side NestJS code. Useful for interacting with third party GraphQL APIs.
   - [GoLevelUp NestJS Hasura](https://github.com/golevelup/nestjs/tree/master/packages/hasura) - NestJS integrations for working with [Hasura](https://hasura.io/) which provides realtime GraphQL APIs over your Postgres Database.
