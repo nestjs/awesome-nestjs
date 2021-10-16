@@ -41,6 +41,7 @@
   - [Gitter](https://gitter.im/nestjs/)
   - [Discord](https://discord.gg/G7Qnnhy)
   - [Telegram (community maintained)](https://t.me/nestjs)
+  - [Telegram (Brazilian Portuguese speak community)](https://t.me/nestjsbr)
   - [Telegram (Russian speak community)](https://t.me/nest_ru)
   - [Slack (Korean speak community)](https://nestjs.slack.com)
   - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
