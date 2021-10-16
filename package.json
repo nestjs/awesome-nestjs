@@ -1,0 +1,29 @@
+{
+  "name": "awesome-nestjs",
+  "version": "1.0.0",
+  "description": "😏 Curated list of NestJS",
+  "private": false,
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/awesome-nestjs.git"
+  },
+  "keywords": [
+    "nest",
+    "nestjs",
+    "awesome-list",
+    "awesome",
+    "node"
+  ],
+  "author": "https://github.com/juliandavidmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/awesome-nestjs/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/awesome-nestjs#readme",
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}
