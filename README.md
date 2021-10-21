@@ -76,7 +76,7 @@
   - [Nest Permissions Seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
   - [Angular NestJS Rendering](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS.
   - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
-  - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS, mongoose, Passport and JWT.
+  - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS and mongoose.
   - [Passport Auth NestJS](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with NestJS.
   - [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
   - [Nest Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
