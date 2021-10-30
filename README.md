@@ -166,6 +166,7 @@
   - [Nest Raven](https://github.com/mentos1386/nest-raven) - Sentry Raven Module for NestJS Framework.
 - Lint
   - [Eslint Plugin NestJS](https://github.com/unlight/eslint-plugin-nestjs) - ESLint rules for NestJS framework.
+  - [Typescript-Eslint Plugin NestJS](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed) - ESLint rules for NestJS framework.
 - Router🚦
   - [Nest Router](https://github.com/shekohex/nest-router) - Router Module For NestJS Framework 🚦 🚀
     for organizing your Routes, creating a routes tree, and more.
