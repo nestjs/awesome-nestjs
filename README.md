@@ -169,6 +169,7 @@
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for NestJS.
   - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for NestJS Log with request context in any place.
 - Monitoring
+  - [Nest OpenTelemetry](https://github.com/MetinSeylan/Nestjs-OpenTelemetry) - Deeply integrated NestJS OpenTelemetry module with auto instrumentations.
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for NestJS based node servers.
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
   - [Nest X-Ray](https://github.com/narando/nest-xray) - Record incoming and outgoing request for [AWS X-Ray](https://aws.amazon.com/xray/), also supports custom instrumentation.
