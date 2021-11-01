@@ -1,14 +1,16 @@
 <!--lint disable awesome-list-item-->
 <div align="center">
-  <img width="250" src="./nest.png" alt="Awesome">
-  <br>
-  <h1>Awesome Nest</h1>
+  <p align="center">
+    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  </p>
+<br>
+<h1>Awesome NestJS</h1>
 
 <a href="#resources">Resources</a>
 &nbsp;&nbsp;&nbsp;
 <a href="contributing.md">Contribution guide</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://nestjs.com">Official documentation</a>
+<a href="https://docs.nestjs.com">Official documentation</a>
 
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
