@@ -66,8 +66,6 @@
 - Examples
 
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
-  - [NestJS API.ai](https://github.com/adrien2p/nest-js-api-ai) - Interact with api.ai in Node.js.
-  - [Simple Todos](https://github.com/BruceHem/simple-todos) - A simple web application powered by Nuxt.js :green_heart: & Nest Framework.
   - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
   - [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
   - [REST NestJS Postgres](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using NestJS and Postgres.
@@ -77,7 +75,6 @@
   - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS, mongoose, Passport and JWT.
   - [Passport Auth NestJS](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with NestJS.
   - [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
-  - [Lynx](https://github.com/mentos1386/lynx) - Opinionated Framework built on top of NestJS and TypeORM.
   - [Nest Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS.
@@ -113,7 +110,6 @@
 ## Projects using NestJS
 
 - Open Source
-  - [EVE Book API](https://github.com/evebook/api) - EVE Book API.
   - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
   - [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
   - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
@@ -135,7 +131,6 @@
   - [Nest Schedule](https://github.com/miaowing/nest-schedule) - Schedule job easier by decorator.
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
   - [Nest Toolbox](https://github.com/lupu60/nestjs-toolbox) - The repository contains a suite of components and modules for NestJS.
-  - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS.
   - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - Ngrx/store and ngrx/effects on the server using the nest framework.
@@ -208,7 +203,6 @@
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
 - GraphQL
-  - [NestJS Graphql](https://github.com/adrien2p/nest-js-graphql) - NestJS starter which implement graphql module.
   - [GoLevelUp NestJS GraphQL Request](https://github.com/golevelup/nestjs/tree/master/packages/graphql-request) - Easily inject and work with GraphQLClient instances from server side NestJS code. Useful for interacting with third party GraphQL APIs.
   - [GoLevelUp NestJS Hasura](https://github.com/golevelup/nestjs/tree/master/packages/hasura) - NestJS integrations for working with [Hasura](https://hasura.io/) which provides realtime GraphQL APIs over your Postgres Database.
 - Pattern
@@ -227,8 +221,6 @@
   - [Nest Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
   - [Nest Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
   - [GoLevelUp Nest Stripe](https://github.com/golevelup/nestjs/tree/master/packages/stripe) - Injectable client plus autowired Stripe webhook handling for deeper integrations.
-- Cache
-  - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [Nest CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
   - [Nest AdminBro](https://github.com/SoftwareBrothers/admin-bro-nestjs) - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro), an automatic admin interface which can be plugged into your application.
