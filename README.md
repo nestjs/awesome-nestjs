@@ -193,9 +193,12 @@
   - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
 
 ## Testing
-  - [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs ) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
-  - [GoLevelUp utilities for Jest](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
-  
+
+  - Collections of examples
+    - [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs ) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
+  - Utilities
+    - [GoLevelUp utilities for Jest](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
+
 ## Integrations
 
 - Auth
