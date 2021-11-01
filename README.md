@@ -22,6 +22,7 @@
 - [Resources](#resources)
 - [Projects using NestJS](#projects-using-nestjs)
 - [Components & Libraries](#components--libraries)
+- [Testing](#testing)
 - [Integrations](#integrations)
 - [Runtime](#runtime)
 - [Meetups](#meetups)
