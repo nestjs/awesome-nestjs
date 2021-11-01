@@ -4,10 +4,11 @@
     <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
   </p>
 <h1>Awesome NestJS</h1>
+<p>A curated list of awesome things related to NestJS</p>
 
 <a href="#resources">Resources</a>
 &nbsp;&nbsp;&nbsp;
-<a href="contributing.md">Contribution guide</a>
+<a href="CONTRIBUTING.md">Contribution guide</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://docs.nestjs.com">Official documentation</a>
 
@@ -253,7 +254,7 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
