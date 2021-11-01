@@ -251,6 +251,7 @@
 
 - Command Line / Terminal
 
+  - [Nest Commander](https://github.com/jmcdo29/nest-commander) - A module for using NestJS to build up CLI applications
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for NestJS applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
   - [NestJS Console](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
