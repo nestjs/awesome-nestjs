@@ -135,6 +135,7 @@
   - [Nest Queue](https://github.com/owl1n/nest-queue) - Easy queue management based on Redis for your application.
   - [Nest Toolbox](https://github.com/lupu60/nestjs-toolbox) - The repository contains a suite of components and modules for NestJS.
   - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
+  - [Nest CLS](https://github.com/Papooch/nestjs-cls) - A continuation-local storage module compatible with NestJS's dependency injection.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - Ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
