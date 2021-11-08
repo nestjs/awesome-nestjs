@@ -98,7 +98,7 @@
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
   - [NestJS Boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things.
   - [Awesome Nest Boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Typescript, Postgresql, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
-  - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-client-starter) - Starter project for NestJS includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
+  - [NestJS Prisma Starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter project for NestJS includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
   - [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible.
   - [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
   - [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using NestJS MongoDB Graphql and type-graphql [https://typegraphql.ml/](https://typegraphql.ml/) inspired the type schema first approach.
