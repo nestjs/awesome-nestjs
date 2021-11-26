@@ -195,6 +195,7 @@
   - [Nestjs MTenant](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
 - Microservice
   - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
+  - [Nestjs Transport Eventbus](https://github.com/sergey-telpuk/nestjs-transport-eventbus) - The module for Nest to allow broadcasting events via variety of nestjs trasports in easy way
 
 ## Testing
 
