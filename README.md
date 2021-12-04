@@ -228,6 +228,7 @@
   - [Nest JSON RPC Transport](https://github.com/Insidexa/nestjs-rpc) - JSON RPC transport layer for the NestJS framework.
 - Editors
   - VSCode
+    - [NestJS Files](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files) - Quickly create NestJS Files.
     - [NestJS Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode NestJS code Snippets.
 - AMQP
   - [Nest AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
