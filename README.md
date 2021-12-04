@@ -174,7 +174,6 @@
 - Dialogflow :satellite:
   - [NestJS Dialogflow](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 - Logging
-  - [Nest Morgan](https://github.com/mentos1386/nest-morgan) - Morgan module for NestJS.
   - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for NestJS.
   - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for NestJS Log with request context in any place.
 - Monitoring
@@ -216,7 +215,7 @@
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
   - [Nest Typeorm Factories](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
-  - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework.
+  - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/typegoose/typegoose) module for Nest framework.
   - [Nest MikroORM](https://github.com/mikro-orm/nestjs) - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
