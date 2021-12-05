@@ -112,6 +112,7 @@
   - [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - Features: JWT Auth, RBAC Authorization, TypeORM, winston logger, Pagination, Auto-generated Swagger. Other: prettier, commit-linting husky hooks, SonarCloud, docker-compose.
   - [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and Passport Auth JWT.
   - [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
+  - [NestJS GraphQL Prisma MySQL API](https://github.com/0ss/nestjs-graphql-boilerplate) - An API built with NestJS, GraphQL, Prisma, MySQL. Also, Authentication, Authorization, Unit testing, Testing Factories and many more.
 
 ## Projects using NestJS
 
