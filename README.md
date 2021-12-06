@@ -198,6 +198,8 @@
 - Microservice
   - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
   - [Nestjs Transport Eventbus](https://github.com/sergey-telpuk/nestjs-transport-eventbus) - The module for Nest to allow broadcasting events via variety of nestjs trasports in easy way
+- Database
+  - [NestJS Prisma](https://github.com/notiz-dev/nestjs-prisma) - Library and schematics adding Prisma integration to a NestJS application
 
 ## Testing
 
