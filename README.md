@@ -252,6 +252,7 @@
   - [Zeebe microservices](https://github.com/pay-k/nestjs-zeebe)
 - Chatbots
   - [Nest Telegraf](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf).
+  - [Necord](https://github.com/SocketSomeone/necord) - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js).
 - File Storage
   - [Nest Storage](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
 - Cloud Managed Configuration
