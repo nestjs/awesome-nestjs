@@ -309,7 +309,9 @@
 #### EventStore
 
 - [Nest EventStore](https://github.com/juicycleff/nestjs-event-store) - An evenstore.org module for NestJS CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
-- Payment Gateways
+
+#### Payment Gateways
+
 - [Nest Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
 - [Nest Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
 - [GoLevelUp Nest Stripe](https://github.com/golevelup/nestjs/tree/master/packages/stripe) - Injectable client plus autowired Stripe webhook handling for deeper integrations.
