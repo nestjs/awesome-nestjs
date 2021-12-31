@@ -242,6 +242,7 @@
 
 - [Nest RBAC](https://github.com/sergey-telpuk/nestjs-rbac) - RBAC module for NestJS, with a dynamic storage and cache.
 - [Nest Keycloak Admin](https://github.com/relevantfruit/nestjs-keycloak-admin) - Keycloak Admin Client with support for User Managed Access protocol.
+- [NestJS OSO](https://github.com/bjerkio/nestjs-oso) - Library that simplifies the implementation of OSO (open-source policy engine for authorization).
 
 #### Multi Tenancy
 
