@@ -153,6 +153,7 @@
 - [Nest Toolbox](https://github.com/lupu60/nestjs-toolbox) - The repository contains a suite of components and modules for NestJS.
 - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 - [Nest CLS](https://github.com/Papooch/nestjs-cls) - A continuation-local storage module for Nest (using `async_hooks`)
+- [NestJS HTTP Promise](https://github.com/benhason1/nestjs-http-promise) - A Promise-based alternative to `@nestjs/axios`, with retries feature using `axios-retry` and `axios`.
 
 #### State Management
 
