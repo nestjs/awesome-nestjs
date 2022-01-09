@@ -362,7 +362,8 @@
 
 ## Meetups
 
-- [NestJS London](https://www.meetup.com/NestJS-London/)
+None at the moment.  
+Why not create a meetup and make a PR?
 
 ## Contribute
 
