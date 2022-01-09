@@ -213,6 +213,7 @@
 
 - [Nest Winston](https://github.com/gremo/nest-winston) - Winston module for NestJS.
 - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for NestJS Log with request context in any place.
+- [Ogma](https://github.com/jmcdo29/ogma) - A monorepo for the Ogma logger and related packages.
 
 #### Monitoring
 
