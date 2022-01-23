@@ -269,6 +269,7 @@
 
 - [GoLevelUp utilities for Jest](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
 - [Mockingbird](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
+- [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 
 ## Integrations
 
