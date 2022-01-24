@@ -123,6 +123,7 @@
 - [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and Passport Auth JWT.
 - [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) - Full-stack monorepo starter (Yarn workspaces) with Prisma, GraphQL, CI and more.
+- [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
 
 ## Projects using NestJS
 
