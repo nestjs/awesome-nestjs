@@ -361,6 +361,7 @@
 - ![](https://img.shields.io/github/stars/nestjs/nest-cli.svg?style=flat-square) [CLI](https://github.com/nestjs/nest-cli) - CLI tool for NestJS applications.
 - ![](https://img.shields.io/github/stars/ashinzekene/generator-nestjs-app.svg?style=flat-square) [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
 - ![](https://img.shields.io/github/stars/Pop-Code/nestjs-console.svg?style=flat-square) [NestJS Console](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
+- ![](https://img.shields.io/github/stars/LoneStone/nest-sdk-generator.svg?style=flat-square) [Typescript SDK Generator](https://github.com/lonestone/nest-sdk-generator) - A command-line utility to generate a fully typed SDK from a Nest.js REST API
 
 ## Meetups
 
