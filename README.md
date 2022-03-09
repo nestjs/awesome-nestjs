@@ -124,6 +124,8 @@
 - [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) - Full-stack monorepo starter (Yarn workspaces) with Prisma, GraphQL, CI and more.
 - [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
+- [Nest.JS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
+
 
 ## Projects using NestJS
 
