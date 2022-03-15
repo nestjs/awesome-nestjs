@@ -51,6 +51,7 @@
 - [Telegram (Russian speak community)](https://t.me/nest_ru)
 - [Slack (Korean speak community)](https://nestjs.slack.com)
 - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
+- [Facebook (Polish speak community)](https://www.facebook.com/groups/606785643208589)
 
 #### Talks
 
