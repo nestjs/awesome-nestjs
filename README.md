@@ -78,6 +78,7 @@
 #### Examples
 
 - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
+- [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
 - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
 - [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
 - [REST NestJS Postgres](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using NestJS and Postgres.
