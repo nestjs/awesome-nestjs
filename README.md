@@ -341,7 +341,7 @@
 
 #### Workflow Automation
 
-- ![](https://img.shields.io/github/stars/pay-k/nestjs-zeebe.svg?style=flat-square) [Zeebe microservices](https://github.com/pay-k/nestjs-zeebe)
+- ![](https://img.shields.io/github/stars/camunda-community-hub/nestjs-zeebe.svg?style=flat-square) [Zeebe microservices](https://github.com/camunda-community-hub/nestjs-zeebe)
 
 #### Chatbots
 
