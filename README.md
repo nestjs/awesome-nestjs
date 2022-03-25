@@ -44,7 +44,6 @@
 
 #### Community
 
-- [Gitter](https://gitter.im/nestjs/)
 - ![](https://img.shields.io/discord/520622812742811698?style=flat-square&logo=nestjs&color=a61b3a) [Discord](https://discord.gg/nestjs)
 - [Telegram (community maintained)](https://t.me/nestjs)
 - [Telegram (Brazilian Portuguese speak community)](https://t.me/nestjsbr)
