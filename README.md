@@ -321,6 +321,7 @@
 
 #### EventStore
 
+- ![](https://img.shields.io/github/stars/PrestaShopCorp/nestjs-geteventstore.svg?style=flat-square) [Nest EventStore by PrestaShopCorp](https://github.com/PrestaShopCorp/nestjs-geteventstore) - An evenstore.org module for NestJS CQRS with Projects and Subscriptions. Supports Eventstore 21.10.0+
 - ![](https://img.shields.io/github/stars/juicycleff/nestjs-event-store.svg?style=flat-square) [Nest EventStore](https://github.com/juicycleff/nestjs-event-store) - An evenstore.org module for NestJS CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
 
 #### Payment Gateways
