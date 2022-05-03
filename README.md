@@ -126,6 +126,8 @@
 - [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) - Full-stack monorepo starter (Yarn workspaces) with Prisma, GraphQL, CI and more.
 - [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
 - [NestJS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
+- [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
+- [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
 
 
 ## Projects using NestJS
@@ -161,10 +163,6 @@
 - ![](https://img.shields.io/github/stars/jeffminsungkim/nestjs-multer-extended.svg?style=flat-square) [`nestjs-multer-extended`](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 - ![](https://img.shields.io/github/stars/Papooch/nestjs-cls.svg?style=flat-square) [`nestjs-cls`](https://github.com/Papooch/nestjs-cls) - A continuation-local storage module for Nest (using `async_hooks`)
 - ![](https://img.shields.io/github/stars/benhason1/nestjs-http-promise.svg?style=flat-square) [`nestjs-http-promise`](https://github.com/benhason1/nestjs-http-promise) - A Promise-based alternative to `@nestjs/axios`, with retries feature using `axios-retry` and `axios`.
-
-#### State Management
-
-- ![](https://img.shields.io/github/stars/derekkite/ngrx-nest.svg?style=flat-square) [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - Ngrx/store and ngrx/effects on the server using the nest framework.
 
 #### Code Style
 
@@ -293,8 +291,6 @@
 - ![](https://img.shields.io/github/stars/alphamikle/nest_transact.svg?style=flat-square) [`nest-transact`](https://github.com/alphamikle/nest_transact) - The simplest transactions using with Nest and TypeORM
 - ![](https://img.shields.io/github/stars/kpfromer/nestjs-typegoose.svg?style=flat-square) [`nestjs-typegoose`](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/typegoose/typegoose) module for Nest framework.
 - ![](https://img.shields.io/github/stars/mikro-orm/nestjs.svg?style=flat-square) [`@mikro-orm/nestjs`](https://github.com/mikro-orm/nestjs) - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
-- ![](https://img.shields.io/github/stars/adrien2p/nest-js-sequelize-jwt.svg?style=flat-square) [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
-- ![](https://img.shields.io/github/stars/kentloog/nestjs-sequelize-typescript.svg?style=flat-square) [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
 - [Nest Prisma](https://www.prisma.io/nestjs) - A Fully Type-Safe ORM for [NestJS](https://docs.nestjs.com/recipes/prisma).
 
 #### GraphQL
