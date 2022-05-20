@@ -58,9 +58,7 @@
 
 #### Tutorials
 
-- [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
-- [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) - Teach how to use NestJS step by step.
-- [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
+- NestJS content on Dev.to: [articles made by the core team](https://dev.to/nestjs); [articles made by the community](https://dev.to/t/nestjs).
 - [NestJS30Days](https://github.com/m24927605/Nestjs30Days) - Learn the NestJS framework in 30 days.
 - [Build a geofencing web app using NestJS and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
 - [Build live comments with sentiment analysis using NestJS](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
@@ -70,10 +68,10 @@
 - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - [NestJS Hasura Integration via Schema Stitching And JWT Auth](https://blog.exceptionfound.com/2020/12/03/nestjs-hasura-integration-via-schema-stitching/)
 - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
-- [NestJS Ideas API](https://www.youtube.com/watch?v=NF9Xn4g5MJY&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
+- YouTube playlist by Kelvin Mai: [NestJS Ideas API](https://www.youtube.com/playlist?list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc) - A project based course on Full Stack Typescript covering NestJS, GraphQL PostgreSQL, Angular and NgRx.
 - [Building a real time web applications using NestJS and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
-- [Video Tutorials](https://www.youtube.com/watch?v=nz6yFTyLbAQ&list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL) - Building a full-stack blog with NestJS, Angular and Angular Material.
-- [Free Video Course](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete NestJS developer. Enterprise Node.js framework.
+- YouTube playlist by Codeforges TM: [Angular + NestJs Tutorials](https://www.youtube.com/playlist?list=PLq1kZ5GbKd4qyDcK3IHGSi4FDAL6fRZeL) - Building a full-stack blog with NestJS, Angular and Angular Material.
+- Udemy free course: [The complete NestJS developer. Enterprise Node.js framework](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete guide for developers how to create enterprise ready applications using NestJS framework.
 
 #### Examples
 
