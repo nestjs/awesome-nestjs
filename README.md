@@ -126,6 +126,7 @@
 - [NestJS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
 - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
 - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
+- [Samchon Backend](https://github.com/samchon/backend) - Template project for NestJS which utilizes Nestia, Safe-TypeORM and PostgreSQL. It supports developers to follow the TDD (Test Driven Development) and BDD (Behavior Driven Development) principles. Documents are well-formed and additional example projects are provided.
 
 
 ## Projects using NestJS
@@ -161,6 +162,7 @@
 - ![](https://img.shields.io/github/stars/jeffminsungkim/nestjs-multer-extended.svg?style=flat-square) [`nestjs-multer-extended`](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
 - ![](https://img.shields.io/github/stars/Papooch/nestjs-cls.svg?style=flat-square) [`nestjs-cls`](https://github.com/Papooch/nestjs-cls) - A continuation-local storage module for Nest (using `async_hooks`)
 - ![](https://img.shields.io/github/stars/benhason1/nestjs-http-promise.svg?style=flat-square) [`nestjs-http-promise`](https://github.com/benhason1/nestjs-http-promise) - A Promise-based alternative to `@nestjs/axios`, with retries feature using `axios-retry` and `axios`.
+- ![](https://img.shields.io/github/stars/samchon/nestia-helper.svg?style=flat-square) [`nestia-helper`](https://github.com/samchon/nestia-helper): Boost up `JSON.stringify()`, of the API responses, 2x times faster.
 
 #### Code Style
 
@@ -185,7 +187,7 @@
 - [`@nestjs/swagger`](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
 - ![](https://img.shields.io/github/stars/flamewow/nestjs-asyncapi.svg?style=flat-square) [`nestjs-asyncapi`](https://github.com/flamewow/nestjs-asyncapi) - AsyncAPI module for NestJS.
 - ![](https://img.shields.io/github/stars/doug-martin/nestjs-query.svg?style=flat-square) [`@nestjs-query/*`](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
-- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`nestia`](https://github.com/samchon/nestia) - Automatic SDK generator for the clients.
+- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`nestia`](https://github.com/samchon/nestia) - Automatic SDK and Swagger generator, evolved than ever.
 
 #### Middleware
 
@@ -363,6 +365,7 @@
 - ![](https://img.shields.io/github/stars/ashinzekene/generator-nestjs-app.svg?style=flat-square) [`generator-nestjs-app`](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
 - ![](https://img.shields.io/github/stars/Pop-Code/nestjs-console.svg?style=flat-square) [`nestjs-console`](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
 - ![](https://img.shields.io/github/stars/LoneStone/nest-sdk-generator.svg?style=flat-square) [`nest-sdk-generator`](https://github.com/lonestone/nest-sdk-generator) - A command-line utility to generate a fully typed SDK from a Nest.js REST API
+
 
 ## Meetups
 
