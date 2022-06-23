@@ -128,6 +128,7 @@
 - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
 - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
 - [Samchon Backend](https://github.com/samchon/backend) - Template project for NestJS which utilizes Nestia, Safe-TypeORM and PostgreSQL. It supports developers to follow the TDD (Test Driven Development) and BDD (Behavior Driven Development) principles. Documents are well-formed and additional example projects are provided.
+- [NestJS Starter](https://github.com/rudemex/nestjs-starter) - Starter for BFF, MS and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
 
 
 ## Projects using NestJS
@@ -164,6 +165,7 @@
 - ![](https://img.shields.io/github/stars/Papooch/nestjs-cls.svg?style=flat-square) [`nestjs-cls`](https://github.com/Papooch/nestjs-cls) - A continuation-local storage module for Nest (using `async_hooks`)
 - ![](https://img.shields.io/github/stars/benhason1/nestjs-http-promise.svg?style=flat-square) [`nestjs-http-promise`](https://github.com/benhason1/nestjs-http-promise) - A Promise-based alternative to `@nestjs/axios`, with retries feature using `axios-retry` and `axios`.
 - ![](https://img.shields.io/github/stars/samchon/nestia-helper.svg?style=flat-square) [`nestia-helper`](https://github.com/samchon/nestia-helper): Boost up `JSON.stringify()`, of the API responses, 2x times faster.
+- ![](https://img.shields.io/github/stars/tresdoce/tresdoce-nestjs-toolkit.svg?style=flat-square) [`NestJS Toolkit`](https://github.com/tresdoce/tresdoce-nestjs-toolkit) - This toolkit is intended to be used in [NestJs Starter](https://github.com/rudemex/nestjs-starter), or any project that uses a centralized configuration, following the same architecture of the starter. Pks: http-client, typeorm, redis, filter exceptions, test utilities with test containers.
 
 #### Code Style
 
