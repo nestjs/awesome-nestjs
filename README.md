@@ -130,6 +130,7 @@
 - [Samchon Backend](https://github.com/samchon/backend) - Template project for NestJS which utilizes Nestia, Safe-TypeORM and PostgreSQL. It supports developers to follow the TDD (Test Driven Development) and BDD (Behavior Driven Development) principles. Documents are well-formed and additional example projects are provided.
 - [NestJS Starter](https://github.com/rudemex/nestjs-starter) - Starter for BFF, MS and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
 - [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis and more, fast and simple boilerplate.
+- [Ultimate NestJs](https://github.com/rubiin/ultimate-nest) - Nestjs template with Mikroorm, postgres, i18n , twilio, CI/CD with Github actions, conventiona commits with cz and husky, caching, mailer , sentry. Extended ESLint config for best practices. Also has nest's new `repl` added
 
 
 ## Projects using NestJS
