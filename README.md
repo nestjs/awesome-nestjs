@@ -60,6 +60,7 @@
 #### Tutorials
 
 - NestJS content on Dev.to: [articles made by the core team](https://dev.to/nestjs); [articles made by the community](https://dev.to/t/nestjs).
+- [Blog of Trilon](https://trilon.io/blog) (NestJS creator's company).
 - [NestJS30Days](https://github.com/m24927605/Nestjs30Days) - Learn the NestJS framework in 30 days.
 - [Build a geofencing web app using NestJS and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
 - [Build live comments with sentiment analysis using NestJS](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
