@@ -132,7 +132,7 @@
 - [NestJS Starter](https://github.com/rudemex/nestjs-starter) - Starter for BFF, MS and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
 - [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis and more, fast and simple boilerplate.
 - [Ultimate NestJs](https://github.com/rubiin/ultimate-nest) - Nestjs template with Mikroorm, postgres, i18n , twilio, CI/CD with Github actions, conventiona commits with cz and husky, caching, mailer , sentry. Extended ESLint config for best practices. Also has nest's new `repl` added
-
+- [Zen NestJS Prisma Apollo Angular Starter](https://github.com/ZenSoftware/zen) - An Nx monorepo for creating user portals as a progressive web application. Zen integrates the most widely adopted dependencies within the NestJS, Prisma, Apollo & Angular eco-systems. Code generating the entire data access layer for you.
 
 ## Projects using NestJS
 
