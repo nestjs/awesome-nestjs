@@ -377,8 +377,7 @@
 
 ## Meetups
 
-None at the moment.  
-Why not create a meetup and make a PR?
+- [NestJS Meetup](https://www.meetup.com/nestjs-meetup/) - community driven meetup
 
 ## Contribute
 
