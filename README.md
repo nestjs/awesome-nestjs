@@ -279,8 +279,8 @@
   
 #### Utilities
 
-- [`@golevelup/ts-jest`](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
-- [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
+- ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/ts-jest`](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
+- ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
 - ![](https://img.shields.io/github/stars/omermorad/nestjs-pact.svg?style=flat-square) [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 
 ## Integrations
