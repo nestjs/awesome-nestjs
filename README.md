@@ -133,6 +133,7 @@
 - [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis and more, fast and simple boilerplate.
 - [Ultimate NestJs](https://github.com/rubiin/ultimate-nest) - Nestjs template with Mikroorm, postgres, i18n , twilio, CI/CD with Github actions, conventiona commits with cz and husky, caching, mailer , sentry. Extended ESLint config for best practices. Also has nest's new `repl` added
 - [Zen NestJS Prisma Apollo Angular Starter](https://github.com/ZenSoftware/zen) - An Nx monorepo for creating user portals as a progressive web application. Zen integrates the most widely adopted dependencies within the NestJS, Prisma, Apollo & Angular eco-systems. Code generating the entire data access layer for you.
+- [NestJS Webpack Boilerplate](https://github.com/kenso312/nestjs-v9-webpack-boilerplate) - Boilerplate for NestJS with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docker, Alias Path, Error Handling and Clustering.
 
 ## Projects using NestJS
 
@@ -148,8 +149,6 @@
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
 - [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
-
- 
 
 ## Components & Libraries
 
@@ -219,6 +218,7 @@
   for organizing your Routes, creating a routes tree, and more.
 
 #### Dialogflow :satellite:
+
 - ![](https://img.shields.io/github/stars/adrien2p/nestjs-dialogflow.svg?style=flat-square) [`nestjs-dialogflow`](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
 
 #### Logging
@@ -278,7 +278,7 @@
 #### Collections of examples
 
 - [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
-  
+
 #### Utilities
 
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/ts-jest`](https://www.npmjs.com/package/@golevelup/ts-jest) - Utilities for making testing NestJS applications easier. Currently supports Jest.
@@ -377,7 +377,6 @@
 - ![](https://img.shields.io/github/stars/ashinzekene/generator-nestjs-app.svg?style=flat-square) [`generator-nestjs-app`](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
 - ![](https://img.shields.io/github/stars/Pop-Code/nestjs-console.svg?style=flat-square) [`nestjs-console`](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
 - ![](https://img.shields.io/github/stars/LoneStone/nest-sdk-generator.svg?style=flat-square) [`nest-sdk-generator`](https://github.com/lonestone/nest-sdk-generator) - A command-line utility to generate a fully typed SDK from a Nest.js REST API
-
 
 ## Meetups
 
