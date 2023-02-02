@@ -98,7 +98,7 @@
 - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
 - [NestJS Elasticsearch Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
 - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
-- [NestJS Api Mongoose](https://github.com/Tony133/nestjs-api-mongoose) - Simple example Api Rest with Nestjs 8.x and Mongoose
+- [NestJS Apps Collection](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community
 
 #### Boilerplate
 
