@@ -56,6 +56,7 @@
 #### Talks
 
 - [Revealing framework fundamentals: NestJS behind the curtain by Kamil Myśliwiec](https://www.youtube.com/watch?v=jo-1EUxMmxc)
+- [Taming reactive Node.js: Stream-oriented architecture with NestJS | Kamil Myśliwiec](https://www.youtube.com/watch?v=c8hvW14VdkY)
 
 #### Tutorials
 
