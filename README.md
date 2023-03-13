@@ -58,6 +58,10 @@
 - [Revealing framework fundamentals: NestJS behind the curtain by Kamil Myśliwiec](https://www.youtube.com/watch?v=jo-1EUxMmxc)
 - [Taming reactive Node.js: Stream-oriented architecture with NestJS | Kamil Myśliwiec](https://www.youtube.com/watch?v=c8hvW14VdkY)
 
+#### Trainings
+
+- [(PL) Node.js - developing advanced applications using NestJS](https://bottega.com.pl/szkolenie-nestjs)
+
 #### Tutorials
 
 - NestJS content on Dev.to: [articles made by the core team](https://dev.to/nestjs); [articles made by the community](https://dev.to/t/nestjs).
