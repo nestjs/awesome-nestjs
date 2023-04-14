@@ -104,6 +104,7 @@
 - [NestJS Elasticsearch Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
 - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 - [NestJS Apps Collection](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community
+- [Lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
 
 #### Boilerplate
 
