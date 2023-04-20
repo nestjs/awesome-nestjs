@@ -262,6 +262,10 @@
 
 - ![](https://img.shields.io/github/stars/iamolegga/nestjs-session.svg?style=flat-square) [`nestjs-session`](https://github.com/iamolegga/nestjs-session) - Idiomatic Session Module for NestJS. Built on top of [express-session](https://npm.im/express-session).
 
+#### Reability
+
+- ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-resilience.svg?style=flat-square) [`nestjs-resilience`](https://github.com/SocketSomeone/nestjs-resilience) - A module for improving the reliability and fault-tolerance of your NestJS applications.
+
 #### RBAC (Role-based access control)
 
 - ![](https://img.shields.io/github/stars/sergey-telpuk/nestjs-rbac.svg?style=flat-square) [`nestjs-rbac`](https://github.com/sergey-telpuk/nestjs-rbac) - RBAC module for NestJS, with a dynamic storage and cache.
