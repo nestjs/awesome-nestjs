@@ -156,6 +156,7 @@
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
 - [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
+- [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 
 
 ## Components & Libraries
