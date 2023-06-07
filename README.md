@@ -178,6 +178,8 @@
 - ![](https://img.shields.io/github/stars/tresdoce/tresdoce-nestjs-toolkit.svg?style=flat-square) [`NestJS Toolkit`](https://github.com/tresdoce/tresdoce-nestjs-toolkit) - This toolkit is intended to be used in [NestJs Starter](https://github.com/rudemex/nestjs-starter), or any project that uses a centralized configuration, following the same architecture of the starter. Pks: http-client, typeorm, redis, filter exceptions, test utilities with test containers.
 - ![](https://img.shields.io/github/stars/samchon/typia.svg?style=flat-square) [`typia`](https://github.com/samchon/typia): 15,000x times faster runtime validator using pure TypeScript type.
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia): 15,000x times faster validation decorators using `typia`.
+- ![](https://img.shields.io/github/stars/rsinger86/dto-classes.svg?style=flat-square) [`dto-classes`](https://github.com/rsinger86/dto-classes): Developer-friendly parsing, validation & serialization. Pipes auto-parsing via type declarations. Uses properties for field schemas, not decorators.
+
 
 #### Code Style
 
