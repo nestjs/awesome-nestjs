@@ -204,7 +204,7 @@
 
 - [`@nestjs/swagger`](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
 - ![](https://img.shields.io/github/stars/flamewow/nestjs-asyncapi.svg?style=flat-square) [`nestjs-asyncapi`](https://github.com/flamewow/nestjs-asyncapi) - AsyncAPI module for NestJS.
-- ![](https://img.shields.io/github/stars/doug-martin/nestjs-query.svg?style=flat-square) [`@nestjs-query/*`](https://github.com/doug-martin/nestjs-query) - Nest CRUD for GraphQL APIs.
+- ![](https://img.shields.io/github/stars/tripss/nestjs-query.svg?style=flat-square) [`@ptc-org/nestjs-query-*`](https://github.com/tripss/nestjs-query) - Nest CRUD for GraphQL APIs.
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/sdk`](https://github.com/samchon/nestia) - Automatic SDK (Software Development Kit, interaction library for client developers like `tRPC`) and Swagger generator, evolved than ever.
 
 #### Middleware
