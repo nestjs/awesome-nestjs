@@ -374,7 +374,8 @@
 #### Chatbots
 
 - ![](https://img.shields.io/github/stars/bukhalo/nestjs-telegraf.svg?style=flat-square) [`nestjs-telegraf`](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf).
-- ![](https://img.shields.io/github/stars/SocketSomeone/necord.svg?style=flat-square) [`necord`](https://github.com/SocketSomeone/necord) - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js).
+- ![](https://img.shields.io/github/stars/necordjs/necord.svg?style=flat-square) [`necord`](https://github.com/necordjs/necord) - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js).
+  - ![](https://img.shields.io/github/stars/necordjs/pagination.svg?style=flat-square) [`@necord/pagination`](https://github.com/necordjs/pagination) - A lightweight Pagination module for [Necord](https://github.com/necordjs/necord).
 
 #### File Storage
 
