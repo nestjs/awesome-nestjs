@@ -73,7 +73,6 @@
 - [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
 - [Build a realtime table with DataTables and NestJS](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
 - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
-- [NestJS Hasura Integration via Schema Stitching And JWT Auth](https://blog.exceptionfound.com/2020/12/03/nestjs-hasura-integration-via-schema-stitching/)
 - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
 - YouTube playlist by Kelvin Mai: [NestJS Ideas API](https://www.youtube.com/playlist?list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc) - A project based course on Full Stack Typescript covering NestJS, GraphQL PostgreSQL, Angular and NgRx.
 - [Building a real time web applications using NestJS and Ably](https://hackernoon.com/building-real-time-web-applications-using-nest-js-and-ably-d85887e81f06)
@@ -151,7 +150,6 @@
 - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
 - [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
 - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
-- [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
 - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
 - [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
 - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
@@ -167,7 +165,7 @@
 #### Utilities
 
 - [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
-- ![](https://img.shields.io/github/stars/nestjs-architects/typed-cqrs.svg?style=flat-square) [`@nestjs-architects/typed-cqrs`](https://github.com/valueadd-poland/nestjs-packages/tree/master/packages/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
+- ![](https://img.shields.io/github/stars/nestjs-architects/typed-cqrs.svg?style=flat-square) [`@nestjs-architects/typed-cqrs`](https://github.com/nestjs-architects/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-config.svg?style=flat-square) [`nestjs-config`](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
 - ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework.
 - ![](https://img.shields.io/github/stars/nest-cloud/nestcloud.svg?style=flat-square) [`@nestcloud/cli`](https://github.com/nest-cloud/nestcloud) - A Node.js micro-service solution based on Consul, writing by Typescript language and NestJS framework.
