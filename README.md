@@ -355,7 +355,6 @@
 #### Payment Gateways
 
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-braintree.svg?style=flat-square) [`nestjs-braintree`](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
-- ![](https://img.shields.io/github/stars/dhaspden/nestjs-stripe.svg?style=flat-square) [`nestjs-stripe`](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/nestjs-stripe`](https://github.com/golevelup/nestjs/tree/master/packages/stripe) - Injectable client plus autowired Stripe webhook handling for deeper integrations.
 
 #### Frontend
