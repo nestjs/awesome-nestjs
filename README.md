@@ -181,6 +181,7 @@
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia): 20,000x times faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times.
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/migrate`](https://github.com/samchon/nestia): Migration program generating NestJS project from `swagger.json` file. Also possible to generate SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) from `swagger.json` file through `@nestia/sdk`
 - ![](https://img.shields.io/github/stars/rsinger86/dto-classes.svg?style=flat-square) [`dto-classes`](https://github.com/rsinger86/dto-classes): Developer-friendly parsing, validation & serialization. Pipes auto-parse via type declarations. Uses properties for field schemas, not decorators.
+- ![](https://img.shields.io/github/stars/micalevisk/nestjs-conditional-exception-filter.svg?style=flat-square) [`nestjs-conditional-exception-filter`](https://github.com/micalevisk/nestjs-conditional-exception-filter) - A tiny utility to support attribute-based exception filtering, ie., no need to use classes for `@Catch()`.
 
 #### Code Style
 
@@ -303,7 +304,6 @@
 - ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
 - ![](https://img.shields.io/github/stars/omermorad/nestjs-pact.svg?style=flat-square) [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 - ![](https://img.shields.io/github/stars/omermorad/automock.svg?style=flat-square) [`@automock/jest`](https://github.com/omermorad/automock) - Standalone library for class-dependencies auto mocking
-- ![](https://img.shields.io/github/stars/micalevisk/nestjs-conditional-exception-filter.svg?style=flat-square) [`nestjs-conditional-exception-filter`](https://github.com/micalevisk/nestjs-conditional-exception-filter) - A tiny utility to support attribute-based exception filtering, ie., no need to use classes for `@Catch()`
 
 ## Integrations
 
