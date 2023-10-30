@@ -52,6 +52,11 @@
 - [Slack (Korean speak community)](https://nestjs.slack.com)
 - [Reddit (community maintained)](https://www.reddit.com/r/Nestjs_framework)
 - [Facebook (Polish speak community)](https://www.facebook.com/groups/606785643208589)
+- [QQ Group (Chinese speaking community)](https://jq.qq.com/?_wv=1027&k=5DnXWGR)
+
+#### Community-made documentations
+
+- [Simplified Chinese Documentation](https://docs.nestjs.cn)
 
 #### Talks
 
