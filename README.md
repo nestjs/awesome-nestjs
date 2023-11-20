@@ -189,6 +189,7 @@
 - ![](https://img.shields.io/github/stars/felanios/murlock.svg?style=flat-square) [`murlock`](https://github.com/felanios/murlock) - MurLock is a distributed lock solution designed for the NestJS framework. It provides a decorator `@MurLock()` that allows for critical sections of your application to be locked to prevent race conditions.
 - ![](https://img.shields.io/github/stars/woowabros/nestjs-library-config.svg?style=flat-square) [`@nestjs-library/config`](https://github.com/woowabros/nestjs-library-config) - A NestJS module for managing environment variables easily and securely
 - ![](https://img.shields.io/github/stars/AyubTouba/nestjs-dbvalidator.svg?style=flat-square) [`@youba/nestjs-dbvalidator`](https://github.com/AyubTouba/nestjs-dbvalidator) - A NestJS module has some built-in database validators using class-validator and typeorm
+- ![](https://img.shields.io/github/stars/jmcdo29/nestjs-spelunker?style=flat-square) [`@jmcdo29/nestjs-spelunker`](https://github.com/jmcdo29/nestjs-spelunker) - A NestJS module that does a bit of a dive through the provided module and reads through the dependency tree from the point of entry given.
 #### Code Style
 
 - ![](https://img.shields.io/github/stars/basarat/typescript-book.svg?style=flat-square) [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
