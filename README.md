@@ -280,6 +280,7 @@
 #### Reability
 
 - ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-resilience.svg?style=flat-square) [`nestjs-resilience`](https://github.com/SocketSomeone/nestjs-resilience) - A module for improving the reliability and fault-tolerance of your NestJS applications.
+- ![](https://img.shields.io/github/stars/hienngm/nestjs-graceful-shutdown.svg?style=flat-square) [`nestjs-graceful-shutdown`](https://github.com/hienngm/nestjs-graceful-shutdown) - A powerful package for gracefully shutting down NestJS applications.
 
 #### RBAC (Role-based access control)
 
