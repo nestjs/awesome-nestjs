@@ -201,6 +201,10 @@
 
 - [`@nestjs/websockets`](https://docs.nestjs.com/websockets/gateways)
 
+#### Cache
+
+- [](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
+
 #### Redis
 
 - ![](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`@nestjs-modules/ioredis`](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
