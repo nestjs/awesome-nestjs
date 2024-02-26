@@ -203,7 +203,7 @@
 
 #### Cache
 
-- [](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
+- [](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
 
 #### Redis
 
