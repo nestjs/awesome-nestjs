@@ -160,6 +160,7 @@
 - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
 - [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
 - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
+- [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer-friendly, No code database.
 - [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0`
 - [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
 - [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
