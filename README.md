@@ -38,6 +38,7 @@
 - [Website](https://nestjs.com)
 - [Official Guide](https://docs.nestjs.com)
 - [GitHub Repo](https://github.com/nestjs/nest)
+- [YouTube channel](https://www.youtube.com/@nestframework)
 - Examples
   - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter.
   - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
