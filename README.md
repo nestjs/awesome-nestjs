@@ -38,6 +38,7 @@
 - [Website](https://nestjs.com)
 - [Official Guide](https://docs.nestjs.com)
 - [GitHub Repo](https://github.com/nestjs/nest)
+- [YouTube channel](https://www.youtube.com/@nestframework)
 - Examples
   - [Nest Starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter.
   - [JavaScript Starter](https://github.com/nestjs/javascript-starter) - Nest framework JavaScript (ES6 / ES7 / ES8) starter.
@@ -342,6 +343,7 @@
 - ![](https://img.shields.io/github/stars/mikro-orm/nestjs.svg?style=flat-square) [`@mikro-orm/nestjs`](https://github.com/mikro-orm/nestjs) - A [MikroORM](https://mikro-orm.io/) module for Nest Framework.
 - [Nest Prisma](https://www.prisma.io/nestjs) - A Fully Type-Safe ORM for [NestJS](https://docs.nestjs.com/recipes/prisma).
 - ![](https://img.shields.io/github/stars/hyperloris/nestjs-tile38.svg?style=flat-square) [`nestjs-tile38`](https://github.com/hyperloris/nestjs-tile38) - A [Tile38](https://tile38.com) module for Nest framework.
+- ![](https://img.shields.io/github/stars/knaadh/nestjs-drizzle.svg?style=flat-square) [`nestjs-drizzle`](https://github.com/knaadh/nestjs-drizzle) - A [Drizzle ORM](https://orm.drizzle.team/) module for Nest.
 
 #### GraphQL
 
