@@ -87,93 +87,93 @@
 
 #### Examples
 
-- [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
-- [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
-- [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
-- [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
-- [REST NestJS Postgres](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using NestJS and Postgres.
-- [Nest Permissions Seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
-- [Angular NestJS Rendering](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS.
-- [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
-- [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS and mongoose.
-- [Passport Auth NestJS](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with NestJS.
-- [NestJS Auth0](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
-- [Nest Ideas API](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
-- [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
-- [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS.
-- [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams.
-- [Serverless-Lambda-FirestoreDB](https://github.com/mamori-i-japan/mamori-i-japan-api) - A fully SERVERLESS in-production application with AWS Lambda, FirestoreDB, Firebase Auth, Winston Logger, Swagger. Also implements admin role authorization.
-- [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
-- [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
-- [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
-- [NestJS Elasticsearch Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
-- [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
-- [NestJS Apps Collection](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community
-- [Lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
-- [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
-- [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
-- [LawKnowledge](https://github.com/foxminchan/LawKnowledge): A legal knowledge search Q&A app for Vietnam's Legal Code using a language model
+- ![](https://img.shields.io/github/stars/Pinedo11/nestDemo-ChatServer.svg?style=flat-square) [**ChatServer**](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
+- ![](https://img.shields.io/github/stars/Sikora00/ddd-by-examples-library-nestjs.svg?style=flat-square) [**Domain Driven Design - Library**](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
+- ![](https://img.shields.io/github/stars/lujakob/nestjs-realworld-example-app.svg?style=flat-square) [**Realworld Example App**](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
+- ![](https://img.shields.io/github/stars/vladotesanovic/mant.svg?style=flat-square) [**Mant**](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
+- ![](https://img.shields.io/github/stars/crudjs/rest-nestjs-postgres.svg?style=flat-square) [**REST NestJS Postgres**](https://github.com/crudjs/rest-nestjs-postgres) - CrudJS implemented as a REST API, using NestJS and Postgres.
+- ![](https://img.shields.io/github/stars/EndyKaufman/nest-permissions-seed.svg?style=flat-square) [**Nest Permissions Seed**](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
+- ![](https://img.shields.io/github/stars/Innovic-io/angular-nestjs-rendering.svg?style=flat-square) [**Angular NestJS Rendering**](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS.
+- ![](https://img.shields.io/github/stars/Abdallah-khalil/ContactManagerApp.svg?style=flat-square) [**Angular Contact Manager App**](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
+- ![](https://img.shields.io/github/stars/Abdallah-khalil/Books-Library-API.svg?style=flat-square) [**Books Library API**](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS and mongoose.
+- ![](https://img.shields.io/github/stars/Abdallah-khalil/NodeJsWithPassport.svg?style=flat-square) [**Passport Auth NestJS**](https://github.com/Abdallah-khalil/NodeJsWithPassport) - Passport strategies and oauth integration built with NestJS.
+- ![](https://img.shields.io/github/stars/jajaperson/nestjs-auth0.svg?style=flat-square) [**NestJS Auth0**](https://github.com/jajaperson/nestjs-auth0) - An example NestJS application that uses Auth0 via Passport for authentication.
+- ![](https://img.shields.io/github/stars/kelvin-mai/nest-ideas-api.svg?style=flat-square) [**Nest Ideas API**](https://github.com/kelvin-mai/nest-ideas-api) - An implementation of a REST and GraphQL server built with NestJS, PostgresQL and TypeORM.
+- ![](https://img.shields.io/github/stars/nest-cloud/nestcloud-starter.svg?style=flat-square) [**Nestcloud Starter**](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
+- ![](https://img.shields.io/github/stars/surmon-china/nodepress.svg?style=flat-square) [**Nodepress**](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS.
+- ![](https://img.shields.io/github/stars/International-Slackline-Association/Rankings-Backend.svg?style=flat-square) [**Serverless-Lambda-DynamoDB**](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams.
+- ![](https://img.shields.io/github/stars/mamori-i-japan/mamori-i-japan-api.svg?style=flat-square) [**Serverless-Lambda-FirestoreDB**](https://github.com/mamori-i-japan/mamori-i-japan-api) - A fully SERVERLESS in-production application with AWS Lambda, FirestoreDB, Firebase Auth, Winston Logger, Swagger. Also implements admin role authorization.
+- ![](https://img.shields.io/github/stars/kop7/serverless-nestjs-typeorm.svg?style=flat-square) [**Serverless NestJS TypeOrm**](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
+- ![](https://img.shields.io/github/stars/marcomelilli/nestjs-email-authentication.svg?style=flat-square) [**Passport Email Auth**](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
+- ![](https://img.shields.io/github/stars/CatsMiaow/node-nestjs-structure.svg?style=flat-square) [**NestJS Project Structure**](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
+- ![](https://img.shields.io/github/stars/kop7/nest-elasticsearch-vue.svg?style=flat-square) [**NestJS Elasticsearch Vue**](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
+- ![](https://img.shields.io/github/stars/pvarentsov/typescript-clean-architecture.svg?style=flat-square) [**TypeScript Clean Architecture**](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
+- ![](https://img.shields.io/github/stars/Tony133/nestjs-apps-collection.svg?style=flat-square) [**NestJS Apps Collection**](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community.
+- ![](https://img.shields.io/github/stars/lyricstify/lyricstify.svg?style=flat-square) [**Lyricstify**](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
+- ![](https://img.shields.io/github/stars/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown.svg?style=flat-square) [**NestJs RabbitMQ Transporter with the graceful shutdown**](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
+- ![](https://img.shields.io/github/stars/anilahir/nestjs-authentication-and-authorization.svg?style=flat-square) [**NestJs Authentication**](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis.
+- ![](https://img.shields.io/github/stars/foxminchan/LawKnowledge.svg?style=flat-square) [**LawKnowledge**](https://github.com/foxminchan/LawKnowledge) - A legal knowledge search Q&A app for Vietnam's Legal Code using a language model.
 
 #### Boilerplate
 
-- [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
-- [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
-- [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
-- [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
-- [NestJS Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
-- [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
-- [NestJS Boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things.
-- [Awesome Nest Boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Typescript, Postgresql, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
-- [NestJS Prisma Starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter project for NestJS includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
-- [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible.
-- [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
-- [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using NestJS MongoDB Graphql and [`type-graphql`](https://typegraphql.com) inspired the type schema first approach.
-- [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with CQRS GraphQL microservice architecture, apollo federation, event source and authentication.
-- [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGraphQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
-- [NextJS & NestJS GraphQL Starter](https://github.com/tomanagle/NextJS-NestJS-GraphQL-Starter) - GraphQL NestJS with NextJS boilerplace. Includes GitHub, Reddit & Google OAuth.
-- [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
-- [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes Prisma, email verification, Passport-JWT authentication, Swagger and more.
-- [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
-- [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - Features: JWT Auth, RBAC Authorization, TypeORM, winston logger, Pagination, Auto-generated Swagger. Other: prettier, commit-linting husky hooks, SonarCloud, docker-compose.
-- [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and JWT Auth.
-- [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
-- [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) - Full-stack monorepo starter (Yarn workspaces) with Prisma, GraphQL, CI and more.
-- [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
-- [NestJS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
-- [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
-- [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
-- [Samchon Backend](https://github.com/samchon/backend) - Template project for NestJS which utilizes Nestia, Safe-TypeORM and PostgreSQL. It supports developers to follow the TDD (Test Driven Development) and BDD (Behavior Driven Development) principles. Documents are well-formed and additional example projects are provided.
-- [NestJS Starter](https://github.com/rudemex/nestjs-starter) - Starter for BFF, MS and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
-- [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis and more, fast and simple boilerplate.
-- [Ultimate NestJs](https://github.com/rubiin/ultimate-nest) - Nestjs template with Mikroorm, postgres, i18n , twilio, CI/CD with Github actions, conventiona commits with cz and husky, caching, mailer , sentry. Extended ESLint config for best practices. Also has nest's new `repl` added
-- [Zen NestJS Prisma Apollo Angular Starter](https://github.com/ZenSoftware/zen) - An Nx monorepo for creating user portals as a progressive web application. Zen integrates the most widely adopted dependencies within the NestJS, Prisma, Apollo & Angular eco-systems. Code generating the entire data access layer for you.
-- [NestJS Webpack Boilerplate](https://github.com/kenso312/nestjs-v9-webpack-boilerplate) - Boilerplate for NestJS with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docker, Alias Path, Error Handling and Clustering.
-- [Nest Prisma Zod Boilerplate](https://github.com/Innei/nest-http-prisma-zod) - A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest.
-- [NestJS Boilerplate using Typescript Generics](https://github.com/BrahimAbdelli/nestjs-boilerplate) - A NestJS boilerplate that uses abstraction to create generic controller, service, dtos and entity, aiming to encapsulate a reusable logic throughout the project in one centralized base module using TypeORM & MongoDB.
+- ![](https://img.shields.io/github/stars/VincentJouanne/nest-clean-architecture-ddd-example.svg?style=flat-square) [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functional programming with FP-TS.
+- ![](https://img.shields.io/github/stars/Ferdysd96/nestjs-permission-boilerplate.svg?style=flat-square) [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
+- ![](https://img.shields.io/github/stars/squareboat/nestjs-boilerplate.svg?style=flat-square) [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
+- ![](https://img.shields.io/github/stars/ahrnee/nestjs-bff.svg?style=flat-square) [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
+- ![](https://img.shields.io/github/stars/Saluki/nestjs-template.svg?style=flat-square) [NestJS Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
+- ![](https://img.shields.io/github/stars/nartc/nest-mean.svg?style=flat-square) [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
+- ![](https://img.shields.io/github/stars/Vivify-Ideas/nestjs-boilerplate.svg?style=flat-square) [NestJS Boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things.
+- ![](https://img.shields.io/github/stars/NarHakobyan/awesome-nest-boilerplate.svg?style=flat-square) [Awesome Nest Boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Typescript, PostgreSQL, TypeORM, Swagger for API documentation, Role-based access control, and best application architecture.
+- ![](https://img.shields.io/github/stars/notiz-dev/nestjs-prisma-starter.svg?style=flat-square) [NestJS Prisma Starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter project for NestJS includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger API, and Docker.
+- ![](https://img.shields.io/github/stars/adrien2p/teanjs.svg?style=flat-square) [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible.
+- ![](https://img.shields.io/github/stars/pezzetti/base-app-nestjs.svg?style=flat-square) [NestJS DDD Boilerplate](https://github.com/pezzetti/base-app-nestjs) - Domain Driven Design Base app with NestJS, Class Validator and TypeORM. SOLID principles applied to create fully testable applications.
+- ![](https://img.shields.io/github/stars/benawad/nest-mongo-graphql.svg?style=flat-square) [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using NestJS MongoDB GraphQL and [`type-graphql`](https://typegraphql.com) inspired by the type schema first approach.
+- ![](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg?style=flat-square) [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with CQRS GraphQL microservice architecture, apollo federation, event source, and authentication.
+- ![](https://img.shields.io/github/stars/fernandohenriques/nestjs-graphql-boilerplate.svg?style=flat-square) [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGraphQL, MongoDB, GraphQL, and automated tasks with Makefile. Code first approach.
+- ![](https://img.shields.io/github/stars/tomanagle/NextJS-NestJS-GraphQL-Starter.svg?style=flat-square) [NextJS & NestJS GraphQL Starter](https://github.com/tomanagle/NextJS-NestJS-GraphQL-Starter) - GraphQL NestJS with NextJS boilerplate. Includes GitHub, Reddit & Google OAuth.
+- ![](https://img.shields.io/github/stars/tudorconstantin/knests.svg?style=flat-square) [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose, and a GitLab CI/CD pipeline fully configured.
+- ![](https://img.shields.io/github/stars/ahmetuysal/nest-hackathon-starter.svg?style=flat-square) [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes Prisma, email verification, Passport-JWT authentication, Swagger, and more.
+- ![](https://img.shields.io/github/stars/chocolat-chaud-io/stator.svg?style=flat-square) [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
+- ![](https://img.shields.io/github/stars/monstar-lab-oss/nestjs-starter-rest-api.svg?style=flat-square) [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - Features: JWT Auth, RBAC Authorization, TypeORM, winston logger, Pagination, Auto-generated Swagger. Other: prettier, commit-linting husky hooks, SonarCloud, docker-compose.
+- ![](https://img.shields.io/github/stars/Tony133/nestjs-api-boilerplate-jwt.svg?style=flat-square) [NestJS Api Boilerplate JWT](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS + TypeORM and JWT Auth.
+- ![](https://img.shields.io/github/stars/brocoders/nestjs-boilerplate.svg?style=flat-square) [NestJS REST API boilerplate for typical project](https://github.com/brocoders/nestjs-boilerplate) - Boilerplate with Auth, TypeORM, PostgreSQL, Mailing, I18N, Docker, File uploads (support local and Amazon S3 drivers), Swagger, Tests, CI.
+- ![](https://img.shields.io/github/stars/alitnk/nest-prisma-monorepo.svg?style=flat-square) [NestJS and Prisma Yarn Monorepo Starter Template](https://github.com/alitnk/nest-prisma-monorepo) - Full-stack monorepo starter (Yarn workspaces) with Prisma, GraphQL, CI, and more.
+- ![](https://img.shields.io/github/stars/gobeam/truthy.svg?style=flat-square) [Truthy NestJS Headless CMS](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has built-in modules like User Management, Role Management, Permission Management, Email Module, Account Settings, 2FA settings, Throttling, RBAC support, Localization, frontend application written with ReactJS & Redux Saga, UI built with Ant design and many more. Other: unit test using Jest, prettier, commit-linting husky hooks, PostgreSQL, Redis, docker etc.
+- ![](https://img.shields.io/github/stars/mokuteki225/nest-websockets-chat-boilerplate.svg?style=flat-square) [NestJS Realtime Chat](https://github.com/mokuteki225/nest-websockets-chat-boilerplate) - Boilerplate for a realtime chat based on Websockets, TypeORM, PostgreSQL, REST, Docker which includes PassportJS/JWT auth, rooms, kick/ban user functionality
+- ![](https://img.shields.io/github/stars/adrien2p/nest-js-sequelize-jwt.svg?style=flat-square) [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
+- ![](https://img.shields.io/github/stars/kentloog/nestjs-sequelize-typescript.svg?style=flat-square) [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
+- ![](https://img.shields.io/github/stars/samchon/backend.svg?style=flat-square) [Samchon Backend](https://github.com/samchon/backend) - Template project for NestJS which utilizes Nestia, Safe-TypeORM and PostgreSQL. It supports developers to follow the TDD (Test Driven Development) and BDD (Behavior Driven Development) principles. Documents are well-formed and additional example projects are provided.
+- ![](https://img.shields.io/github/stars/rudemex/nestjs-starter.svg?style=flat-square) [NestJS Starter](https://github.com/rudemex/nestjs-starter) - Starter for BFF, MS, and API Rest with NestJS, scalable by environments with centralized configuration to use GitOps, CI/CD with GitHub Actions, Dockerization, Conventional commits, versioning, etc... and much more.
+- ![](https://img.shields.io/github/stars/Innei/nest-http-boilerplate.svg?style=flat-square) [NestJS HTTP Boilerplate](https://github.com/Innei/nest-http-boilerplate) - A template for NestJS, Fastify, Typegoose, Vitest, custom Logger implementation, Redis, and more, fast and simple boilerplate.
+- ![](https://img.shields.io/github/stars/rubiin/ultimate-nest.svg?style=flat-square) [Ultimate NestJs](https://github.com/rubiin/ultimate-nest) - Nestjs template with Mikroorm, postgres, i18n, twilio, CI/CD with Github actions, conventional commits with cz and husky, caching, mailer, sentry. Extended ESLint config for best practices. Also has nest's new `repl` added
+- ![](https://img.shields.io/github/stars/ZenSoftware/zen.svg?style=flat-square) [Zen NestJS Prisma Apollo Angular Starter](https://github.com/ZenSoftware/zen) - An Nx monorepo for creating user portals as a progressive web application. Zen integrates the most widely adopted dependencies within the NestJS, Prisma, Apollo & Angular eco-systems. Code generating the entire data access layer for you.
+- ![](https://img.shields.io/github/stars/kenso312/nestjs-v9-webpack-boilerplate.svg?style=flat-square) [NestJS Webpack Boilerplate](https://github.com/kenso312/nestjs-v9-webpack-boilerplate) - Boilerplate for NestJS with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docker, Alias Path, Error Handling, and Clustering.
+- ![](https://img.shields.io/github/stars/Innei/nest-http-prisma-zod.svg?style=flat-square) [Nest Prisma Zod Boilerplate](https://github.com/Innei/nest-http-prisma-zod) - A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod, and Vitest.
+- ![](https://img.shields.io/github/stars/BrahimAbdelli/nestjs-boilerplate.svg?style=flat-square) [NestJS Boilerplate using Typescript Generics](https://github.com/BrahimAbdelli/nestjs-boilerplate) - A NestJS boilerplate that uses abstraction to create generic controller, service, dtos, and entity, aiming to encapsulate a reusable logic throughout the project in one centralized base module using TypeORM & MongoDB.
 
 ## Projects using NestJS
 
 #### Open Source
 
-- [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
-- [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
-- [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
-- [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
-- [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
-- [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
-- [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer-friendly, No code database.
-- [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0`
-- [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
-- [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
-- [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
-- [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
-- [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
+- ![](https://img.shields.io/github/stars/ever-co/ever.svg?style=flat-square) [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
+- ![](https://img.shields.io/github/stars/feednext/feednext.svg?style=flat-square) [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
+- ![](https://img.shields.io/github/stars/ever-co/gauzy.svg?style=flat-square) [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
+- ![](https://img.shields.io/github/stars/notadd/notadd.svg?style=flat-square) [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
+- ![](https://img.shields.io/github/stars/novuhq/novu.svg?style=flat-square) [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
+- ![](https://img.shields.io/github/stars/valueadd-poland/pimp-my-pr.svg?style=flat-square) [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
+- ![](https://img.shields.io/github/stars/teableio/teable.svg?style=flat-square) [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer-friendly, No code database.
+- ![](https://img.shields.io/github/stars/ToolJet/ToolJet.svg?style=flat-square) [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code](https://github.com/ToolJet/ToolJet)) `GPL-3.0`
+- ![](https://img.shields.io/github/stars/vendure-ecommerce/vendure.svg?style=flat-square) [Vendure](https://github.com/vendure-ecommerce/vendure) - Open-Source headless GraphQL ecommerce framework built on NestJS, with a focus on developer productivity and ease of customization.
+- ![](https://img.shields.io/github/stars/pvarentsov/iola.svg?style=flat-square) [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
+- ![](https://img.shields.io/github/stars/amplication/amplication.svg?style=flat-square) [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
+- ![](https://img.shields.io/github/stars/necordjs/toolkit.svg?style=flat-square) [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
+- ![](https://img.shields.io/github/stars/undb-xyz/undb.svg?style=flat-square) [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
 
 ## Components & Libraries
 
 #### Utilities
 
-- [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
+- ![](https://img.shields.io/github/stars/nestjs/cqrs.svg?style=flat-square) [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
 - ![](https://img.shields.io/github/stars/nestjs-architects/typed-cqrs.svg?style=flat-square) [`@nestjs-architects/typed-cqrs`](https://github.com/nestjs-architects/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-config.svg?style=flat-square) [`nestjs-config`](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
 - ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework.
@@ -206,12 +206,12 @@
 
 #### Cache
 
-- [](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
+- ![](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square)[`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework
 
 #### Redis
 
-- ![](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`@nestjs-modules/ioredis`](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
-- ![](https://img.shields.io/github/stars/liaoliaots/nestjs-redis.svg?style=flat-square) [`@liaoliaots/nestjs-redis`](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for NestJS framework.
+- ![](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square)[`@nestjs-modules/ioredis`](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
+- ![](https://img.shields.io/github/stars/liaoliaots/nestjs-redis.svg?style=flat-square)[`@liaoliaots/nestjs-redis`](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for NestJS framework.
 
 #### Mail
 
@@ -309,13 +309,13 @@
 
 #### Database
 
-- ![](https://img.shields.io/github/stars/notiz-dev/nestjs-prisma.svg?style=flat-square) [`nestjs-prisma`](https://github.com/notiz-dev/nestjs-prisma) - Library and schematics adding Prisma integration to a NestJS application
+- ![](https://img.shields.io/github/stars/notiz-dev/nestjs-prisma.svg?style=flat-square)[`nestjs-prisma`](https://github.com/notiz-dev/nestjs-prisma) - Library and schematics adding Prisma integration to a NestJS application
 
 ## Testing
 
 #### Collections of examples
 
-- [Testing Nestjs](https://github.com/jmcdo29/testing-nestjs) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
+- ![](https://img.shields.io/github/stars/jmcdo29/testing-nestjs.svg?style=flat-square)[Testing Nestjs](https://github.com/jmcdo29/testing-nestjs) - A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
 
 #### Utilities
 
@@ -333,8 +333,8 @@
 
 #### Databases
 
-- [`@nestjs/typeorm`](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
-- [`@nestjs/mongoose`](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
+- ![](https://img.shields.io/github/stars/nestjs/typeorm.svg?style=flat-square)[`@nestjs/typeorm`](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+- ![](https://img.shields.io/github/stars/nestjs/mongoose.svg?style=flat-square)[`@nestjs/mongoose`](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
 - ![](https://img.shields.io/github/stars/owl1n/typeorm-factories.svg?style=flat-square) [`typeorm-factories`](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
 - ![](https://img.shields.io/github/stars/alphamikle/nest_transact.svg?style=flat-square) [`nest-transact`](https://github.com/alphamikle/nest_transact) - The simplest transactions using with Nest and TypeORM
 - ![](https://img.shields.io/github/stars/kpfromer/nestjs-typegoose.svg?style=flat-square) [`nestjs-typegoose`](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/typegoose/typegoose) module for Nest framework.
@@ -387,7 +387,7 @@
 
 #### Scheduling
 
-- [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
+- ![](https://img.shields.io/github/stars/nestjsx/nest-bull.svg?style=flat-square)[`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 
 #### Workflow Automation
 
