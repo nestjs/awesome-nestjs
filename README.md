@@ -173,7 +173,7 @@
 
 #### Utilities
 
-- ![](https://img.shields.io/github/stars/nestjs/cqrs.svg?style=flat-square) [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
+- [`@nestjs/cqrs`](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework.
 - ![](https://img.shields.io/github/stars/nestjs-architects/typed-cqrs.svg?style=flat-square) [`@nestjs-architects/typed-cqrs`](https://github.com/nestjs-architects/typed-cqrs) - A wrapper for the Nest CQRS library for better typing of query and command results.
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-config.svg?style=flat-square) [`nestjs-config`](https://github.com/nestjsx/nestjs-config) - A Great module to handle project configurations.
 - ![](https://img.shields.io/github/stars/Nikaple/nest-typed-config.svg?style=flat-square) [`nest-typed-config`](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework.
@@ -334,8 +334,8 @@
 
 #### Databases
 
-- ![](https://img.shields.io/github/stars/nestjs/typeorm.svg?style=flat-square)[`@nestjs/typeorm`](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
-- ![](https://img.shields.io/github/stars/nestjs/mongoose.svg?style=flat-square)[`@nestjs/mongoose`](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
+- [`@nestjs/typeorm`](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+- [`@nestjs/mongoose`](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
 - ![](https://img.shields.io/github/stars/owl1n/typeorm-factories.svg?style=flat-square) [`typeorm-factories`](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
 - ![](https://img.shields.io/github/stars/alphamikle/nest_transact.svg?style=flat-square) [`nest-transact`](https://github.com/alphamikle/nest_transact) - The simplest transactions using with Nest and TypeORM
 - ![](https://img.shields.io/github/stars/kpfromer/nestjs-typegoose.svg?style=flat-square) [`nestjs-typegoose`](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/typegoose/typegoose) module for Nest framework.
@@ -389,7 +389,7 @@
 
 #### Scheduling
 
-- ![](https://img.shields.io/github/stars/nestjsx/nest-bull.svg?style=flat-square)[`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
+- [`@nestjs/bull`](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 
 #### Workflow Automation
 
