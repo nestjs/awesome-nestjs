@@ -368,7 +368,7 @@
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-amqp.svg?style=flat-square) [`nestjs-amqp`](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
 - ![](https://img.shields.io/github/stars/AlariCode/nestjs-rmq.svg?style=flat-square) [`nestjs-rmq`](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/nestjs-rabbitmq`](https://github.com/golevelup/nestjs/tree/master/packages/rabbitmq) - Flexible AMQP integrations for NestJS that supports multiple messaging patterns and intuitive decorators.
-- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [@getlarge/nestjs-tools-amqp-transport](https://github.com/getlarge/nestjs-tools/tree/main/packages/amqp-transport) - An extended **AMQP** transport strategy supporting **exchanges**.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-amqp-transport`](https://github.com/getlarge/nestjs-tools/tree/main/packages/amqp-transport) - An extended **AMQP** transport strategy supporting **exchanges**.
 
 #### EventStore
 
@@ -405,8 +405,8 @@
 #### File Storage
 
 - ![](https://img.shields.io/github/stars/codebrewlab/nestjs-storage.svg?style=flat-square) [`@codebrew/nestjs-storage`](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
-- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [@getlarge/nestjs-tools-file-storages](https://github.com/getlarge/nestjs-tools/blob/main/packages/file-storage) - A FileStorage Module supporting several strategies (**FS**, **S3**, **GCP storage**) to store files.
-- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [@getlarge/nestjs-tools-fastify-upload](https://github.com/getlarge/nestjs-tools/tree/main/packages/fastify-upload) - Suite of Interceptors and request decorators to handle file upload with **Fastify**.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-file-storages`](https://github.com/getlarge/nestjs-tools/blob/main/packages/file-storage) - A FileStorage Module supporting several strategies (**FS**, **S3**, **GCP storage**) to store files.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-fastify-upload`](https://github.com/getlarge/nestjs-tools/tree/main/packages/fastify-upload) - Suite of Interceptors and request decorators to handle file upload with **Fastify**.
 
 #### Cloud Managed Configuration
 
