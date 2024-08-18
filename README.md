@@ -151,6 +151,7 @@
 - [Nest Prisma Zod Boilerplate](https://github.com/Innei/nest-http-prisma-zod) - A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest.
 - [NestJS Boilerplate using Typescript Generics](https://github.com/BrahimAbdelli/nestjs-boilerplate) - A NestJS boilerplate that uses abstraction to create generic controller, service, dtos and entity, aiming to encapsulate a reusable logic throughout the project in one centralized base module using TypeORM & MongoDB.
 - [NestJS Drizzle Auth.js](https://github.com/innei-template/nest-drizzle-authjs) - A Nest.js Boilerplate Using Drizzle + Postgres and integrates Auth.js.
+- [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
 
 ## Projects using NestJS
 
@@ -197,6 +198,7 @@
 - ![](https://img.shields.io/github/stars/woowabros/nestjs-library-config.svg?style=flat-square) [`@nestjs-library/config`](https://github.com/woowabros/nestjs-library-config) - A NestJS module for managing environment variables easily and securely
 - ![](https://img.shields.io/github/stars/AyubTouba/nestjs-dbvalidator.svg?style=flat-square) [`@youba/nestjs-dbvalidator`](https://github.com/AyubTouba/nestjs-dbvalidator) - A NestJS module has some built-in database validators using class-validator and typeorm
 - ![](https://img.shields.io/github/stars/jmcdo29/nestjs-spelunker?style=flat-square) [`@jmcdo29/nestjs-spelunker`](https://github.com/jmcdo29/nestjs-spelunker) - A NestJS module that does a bit of a dive through the provided module and reads through the dependency tree from the point of entry given.
+
 #### Code Style
 
 - ![](https://img.shields.io/github/stars/basarat/typescript-book.svg?style=flat-square) [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
@@ -368,6 +370,7 @@
 - ![](https://img.shields.io/github/stars/nestjsx/nestjs-amqp.svg?style=flat-square) [`nestjs-amqp`](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
 - ![](https://img.shields.io/github/stars/AlariCode/nestjs-rmq.svg?style=flat-square) [`nestjs-rmq`](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/nestjs-rabbitmq`](https://github.com/golevelup/nestjs/tree/master/packages/rabbitmq) - Flexible AMQP integrations for NestJS that supports multiple messaging patterns and intuitive decorators.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-amqp-transport`](https://github.com/getlarge/nestjs-tools/tree/main/packages/amqp-transport) - An extended **AMQP** transport strategy supporting **exchanges**.
 
 #### EventStore
 
@@ -382,7 +385,7 @@
 
 #### Frontend
 
-- ![](https://img.shields.io/github/stars/FusionWorks/react-admin-nestjsx-crud-dataprovider.svg?style=flat-square) [`@fusionworks/ra-data-nest-crud`](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
+- ![](https://img.shields.io/github/stars/rayman1104/ra-data-nestjsx-crud.svg?style=flat-square) [`ra-data-nestjsx-crud`](https://github.com/rayman1104/ra-data-nestjsx-crud) - Data provider which integrates React Admin with [NextJS CRUD](https://github.com/nestjsx/crud) library.
 - ![](https://img.shields.io/github/stars/SoftwareBrothers/admin-bro-nestjs.svg?style=flat-square) [`@adminjs/nestjs`](https://github.com/SoftwareBrothers/admin-bro-nestjs) - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro), an automatic admin interface which can be plugged into your application.
 - ![](https://img.shields.io/github/stars/ForestAdmin/agent-nodejs.svg?style=flat-square) [`@forestadmin/agent`](https://github.com/ForestAdmin/agent-nodejs) - NestJS compatible plugin for [Forest Admin](https://www.forestadmin.com), an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
 
@@ -404,6 +407,8 @@
 #### File Storage
 
 - ![](https://img.shields.io/github/stars/codebrewlab/nestjs-storage.svg?style=flat-square) [`@codebrew/nestjs-storage`](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-file-storages`](https://github.com/getlarge/nestjs-tools/blob/main/packages/file-storage) - A FileStorage Module supporting several strategies (**FS**, **S3**, **GCP storage**) to store files.
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-fastify-upload`](https://github.com/getlarge/nestjs-tools/tree/main/packages/fastify-upload) - Suite of Interceptors and request decorators to handle file upload with **Fastify**.
 
 #### Cloud Managed Configuration
 
