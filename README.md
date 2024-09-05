@@ -333,6 +333,8 @@
 
 - ![](https://img.shields.io/github/stars/cdiaz/nestjs-auth0.svg?style=flat-square) [Nest + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
 - ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-auth.svg?style=flat-square) [`@tfarras/nestjs-firebase-auth`](https://github.com/tfarras/nestjs-firebase-auth) - NestJS Passport Strategy for Firebase Auth using Firebase Admin SDK
+- ![](https://img.shields.io/github/stars/Alpha018/nestjs-firebase-auth.svg?style=flat-square) [`@alpha018/nestjs-firebase-auth`](https://github.com/Alpha018/nestjs-firebase-auth) - NestJS Module for Auth and RBAC using firebase to simplify the process to use Firebase [Admin SDK](https://firebase.google.com/).
+
 
 #### Databases
 
@@ -417,6 +419,7 @@
 #### SDK
 
 - ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-admin.svg?style=flat-square) [`@tfarras/nestjs-firebase-admin`](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/).
+- ![](https://img.shields.io/github/stars/Alpha018/nestjs-firebase-auth.svg?style=flat-square) [`@alpha018/nestjs-firebase-auth`](https://github.com/Alpha018/nestjs-firebase-auth) - NestJS Module for firebase to simplify the process to use Firebase and other tools [Firebase Admin SDK](https://firebase.google.com/).
 
 ## Runtime
 
