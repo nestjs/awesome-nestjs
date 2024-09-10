@@ -113,6 +113,7 @@
 - [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
 - [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
 - [LawKnowledge](https://github.com/foxminchan/LawKnowledge): A legal knowledge search Q&A app for Vietnam's Legal Code using a language model
+- [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
 
 #### Boilerplate
 - [Clean NestJs architecture](https://github.com/MoeidHeidari/sudoku-challenge) - This boilerplate show how to setup a clean architecture with NestJs including unit, integration and e2e tests.
@@ -170,6 +171,7 @@
 - [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
 - [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 - [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
+- [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
 
 ## Components & Libraries
 
@@ -190,7 +192,7 @@
 - ![](https://img.shields.io/github/stars/benhason1/nestjs-http-promise.svg?style=flat-square) [`nestjs-http-promise`](https://github.com/benhason1/nestjs-http-promise) - A Promise-based alternative to `@nestjs/axios`, with retries feature using `axios-retry` and `axios`.
 - ![](https://img.shields.io/github/stars/tresdoce/tresdoce-nestjs-toolkit.svg?style=flat-square) [`NestJS Toolkit`](https://github.com/tresdoce/tresdoce-nestjs-toolkit) - This toolkit is intended to be used in [NestJs Starter](https://github.com/rudemex/nestjs-starter), or any project that uses a centralized configuration, following the same architecture of the starter. Pks: http-client, typeorm, redis, filter exceptions, test utilities with test containers.
 - ![](https://img.shields.io/github/stars/samchon/typia.svg?style=flat-square) [`typia`](https://github.com/samchon/typia): 20,000x times faster runtime validator using pure TypeScript type.
-- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia): 20,000x times faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times.
+- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/core`](https://github.com/samchon/nestia): 20,000x times faster validation and 200x faster JSON serialization decorators using `typia`. Enable to utilize pure TypeScript interface type as DTO, and overall server performance improved by about 30x times. Also, supports advanced `websocket` controlle methods through `tgrid`.
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/migrate`](https://github.com/samchon/nestia): Migration program generating NestJS project from `swagger.json` file. Also possible to generate SDK (collection of `fetch` functions with type definitions) and Mockup Simulator (backend server simulator embedded in SDK) from `swagger.json` file through `@nestia/sdk`
 - ![](https://img.shields.io/github/stars/rsinger86/dto-classes.svg?style=flat-square) [`dto-classes`](https://github.com/rsinger86/dto-classes): Developer-friendly parsing, validation & serialization. Pipes auto-parse via type declarations. Uses properties for field schemas, not decorators.
 - ![](https://img.shields.io/github/stars/micalevisk/nestjs-conditional-exception-filter.svg?style=flat-square) [`nestjs-conditional-exception-filter`](https://github.com/micalevisk/nestjs-conditional-exception-filter) - A tiny utility to support attribute-based exception filtering, ie., no need to use classes for `@Catch()`.
@@ -206,6 +208,7 @@
 #### Web Sockets
 
 - [`@nestjs/websockets`](https://docs.nestjs.com/websockets/gateways)
+- ![](https://img.shields.io/github/stars/samchon/tgrid?style=flat-square)  [`tgrid`](https://github.com/samchon/tgrid) - TypeSCript RPC (Remote Procedure Call) framework supporting websocket and worker protocols with pure TypeScript types. Supports NestJS websocket controller methods with `@nestia/core`.
 
 #### Cache
 
@@ -233,6 +236,7 @@
 #### Middleware
 
 - ![](https://img.shields.io/github/stars/wbhob/nest-middlewares.svg?style=flat-square) [`@nest-middlewares/*`](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
+- ![](https://img.shields.io/github/stars/halitsever/nest-cloudflare-turnstile.svg?style=flat-square) [`nest-cloudflare-turnstile`](https://github.com/halitsever/nest-cloudflare-turnstile) - ☁️ Cloudflare Turnstile Captcha integration for NestJS
 
 #### Errors
 
@@ -334,7 +338,7 @@
 - ![](https://img.shields.io/github/stars/cdiaz/nestjs-auth0.svg?style=flat-square) [Nest + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
 - ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-auth.svg?style=flat-square) [`@tfarras/nestjs-firebase-auth`](https://github.com/tfarras/nestjs-firebase-auth) - NestJS Passport Strategy for Firebase Auth using Firebase Admin SDK
 - ![](https://img.shields.io/github/stars/Alpha018/nestjs-firebase-auth.svg?style=flat-square) [`@alpha018/nestjs-firebase-auth`](https://github.com/Alpha018/nestjs-firebase-auth) - NestJS Module for Auth, RBAC and Firebase Admin SDK to simplify the process to use Firebase in general terms [Admin SDK](https://firebase.google.com/).
-
+- ![](https://img.shields.io/github/stars/getlarge/nestjs-ory-integration.svg?style=flat-square) [`@getlarge/nestjs-ory-integration`](https://github.com/getlarge/nestjs-ory-integration) - Suite of libraries to integrate the Ory stack (Hydra, Keto, Kratos) to secure your NestJS applications.
 
 #### Databases
 
