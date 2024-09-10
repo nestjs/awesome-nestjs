@@ -233,6 +233,7 @@
 #### Middleware
 
 - ![](https://img.shields.io/github/stars/wbhob/nest-middlewares.svg?style=flat-square) [`@nest-middlewares/*`](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
+- ![](https://img.shields.io/github/stars/halitsever/nest-cloudflare-turnstile.svg?style=flat-square) [`nest-cloudflare-turnstile`](https://github.com/halitsever/nest-cloudflare-turnstile) - ☁️ Cloudflare Turnstile Captcha integration for NestJS
 
 #### Errors
 
