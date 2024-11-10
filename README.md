@@ -153,7 +153,7 @@
 - [NestJS Boilerplate using Typescript Generics](https://github.com/BrahimAbdelli/nestjs-boilerplate) - A NestJS boilerplate that uses abstraction to create generic controller, service, dtos and entity, aiming to encapsulate a reusable logic throughout the project in one centralized base module using TypeORM & MongoDB.
 - [NestJS Drizzle Auth.js](https://github.com/innei-template/nest-drizzle-authjs) - A Nest.js Boilerplate Using Drizzle + Postgres and integrates Auth.js.
 - [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
-
+- [NestJS Boilerplate with Turborepo](https://github.com/devaungphyo/turborepo) - NestJS boilerplate with Swc, Pnpm, Auth With JWT, TypeORM, Postgresql, Mail Service with Nodemailer, Lint and Format, and including micro-frontend with Turborepo already configured with shadcnUI with Next.js (15) and Nest.js.
 ## Projects using NestJS
 
 #### Open Source
