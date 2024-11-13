@@ -108,7 +108,6 @@
 - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
 - [NestJS Elasticsearch Vue](https://github.com/kop7/nest-elasticsearch-vue) - Autocomplete search with NestJS, Elasticsearch and Vue.
 - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
-- [NestJS Apps Collection](https://github.com/Tony133/nestjs-apps-collection) - Collection example apps with NestJS and Typeorm, Mongodb, PostgreSQL, GraphQL, Mercurius, etc. for the NestJS community
 - [Lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, Nest Commander & RxJs.
 - [NestJs RabbitMQ Transporter with the graceful shutdown](https://github.com/pasalino/nestjs-rabbitmq-transporter-graceful-shutdown) - An implementation example of graceful shutdown for microservices based on RabbitMQ message broker.
 - [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
@@ -116,6 +115,7 @@
 - [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
 
 #### Boilerplate
+
 - [Clean NestJs architecture](https://github.com/MoeidHeidari/sudoku-challenge) - This boilerplate show how to setup a clean architecture with NestJs including unit, integration and e2e tests.
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
@@ -159,9 +159,7 @@
 #### Open Source
 
 - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
-- [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
 - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
-- [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
 - [Novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center.
 - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management.
 - [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer-friendly, No code database.
