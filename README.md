@@ -172,6 +172,7 @@
 - [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 - [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
 - [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
+- [apitable](https://github.com/apitable/apitable) - APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
 ## Components & Libraries
 
