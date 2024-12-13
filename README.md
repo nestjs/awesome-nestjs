@@ -373,6 +373,7 @@
 - VSCode
   - [NestJS Files](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files) - Quickly create NestJS Files.
   - [NestJS Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode NestJS code Snippets.
+- [Vast Studio](https://getvast.app) - Vast Studio is a free low-code platform for rapidly scaffolding RESTful APIs with NestJS.
 
 #### AMQP
 
