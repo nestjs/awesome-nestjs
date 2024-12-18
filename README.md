@@ -203,6 +203,7 @@
 - ![](https://img.shields.io/github/stars/woowabros/nestjs-library-config.svg?style=flat-square) [`@nestjs-library/config`](https://github.com/woowabros/nestjs-library-config) - A NestJS module for managing environment variables easily and securely
 - ![](https://img.shields.io/github/stars/AyubTouba/nestjs-dbvalidator.svg?style=flat-square) [`@youba/nestjs-dbvalidator`](https://github.com/AyubTouba/nestjs-dbvalidator) - A NestJS module has some built-in database validators using class-validator and typeorm
 - ![](https://img.shields.io/github/stars/jmcdo29/nestjs-spelunker?style=flat-square) [`@jmcdo29/nestjs-spelunker`](https://github.com/jmcdo29/nestjs-spelunker) - A NestJS module that does a bit of a dive through the provided module and reads through the dependency tree from the point of entry given.
+- ![](https://img.shields.io/github/stars/AdirD/nestjs-context-logger.svg?style=flat-square) [`nestjs-context-logger`](https://github.com/AdirD/nestjs-context-logger) - A contextual logger for NestJS applications using ALS under the hood.
 
 #### Code Style
 
