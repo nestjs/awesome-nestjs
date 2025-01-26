@@ -376,6 +376,7 @@
   - [NestJS Files](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files) - Quickly create NestJS Files.
   - [NestJS Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode NestJS code Snippets.
 - [Vast Studio](https://getvast.app) - Vast Studio is a free low-code platform for rapidly scaffolding RESTful APIs with NestJS.
+- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/editor`](https://nestia.io/docs/swagger/editor/) - Enhanced Swagger-UI with online TypeScript IDE of StackBlitz and SDK library of RPC functions
 
 #### AMQP
 
@@ -415,6 +416,7 @@
 - ![](https://img.shields.io/github/stars/necordjs/necord.svg?style=flat-square) [`necord`](https://github.com/necordjs/necord) - A module for creating Discord bots using NestJS, based on [Discord.js](https://github.com/discordjs/discord.js).
   - ![](https://img.shields.io/github/stars/necordjs/pagination.svg?style=flat-square) [`@necord/pagination`](https://github.com/necordjs/pagination) - A lightweight Pagination module for [Necord](https://github.com/necordjs/necord).
   - ![](https://img.shields.io/github/stars/necordjs/localization.svg?style=flat-square) [`@necord/localization`](https://github.com/necordjs/localization) - Localize your Discord bot with [Necord](https://github.com/necordjs/necord).
+- ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/chat`](https://nestia.io/docs/swagger/chat/) - Super A.I. chatbot by Swagger Document. Chat with your backend server with a transformation strategy from OpenAPI operations to the LLM function calling schemas.
 
 #### File Storage
 
