@@ -391,7 +391,8 @@
 - ![](https://img.shields.io/github/stars/AlariCode/nestjs-rmq.svg?style=flat-square) [`nestjs-rmq`](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/nestjs-rabbitmq`](https://github.com/golevelup/nestjs/tree/master/packages/rabbitmq) - Flexible AMQP integrations for NestJS that supports multiple messaging patterns and intuitive decorators.
 - ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-amqp-transport`](https://github.com/getlarge/nestjs-tools/tree/main/packages/amqp-transport) - An extended **AMQP** transport strategy supporting **exchanges**.
-
+- ![](https://img.shields.io/github/stars/diy0r/nestjs-rabbitmq.svg?style=flat-square) [`@diy0r/nestjs-rabbitmq`](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
+  
 #### EventStore
 
 - ![](https://img.shields.io/github/stars/PrestaShopCorp/nestjs-geteventstore.svg?style=flat-square) [`nestjs-geteventstore` by PrestaShopCorp](https://github.com/PrestaShopCorp/nestjs-geteventstore) - An evenstore.org module for NestJS CQRS with Projects and Subscriptions. Supports Eventstore 21.10.0+
