@@ -182,6 +182,7 @@
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
 - [Twenty](https://github.com/twentyhq/twenty) - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
 - [Manifest](https://manifest.build) - 1-file micro backend in YAML.
+- [IdeaForge](https://github.com/chenxiaoyao6228/idea-forge) - A powerful document collaboration platform that combines Notion-like functionality with AI capabilities. It offers a seamless environment for real-time collaborative editing, AI-powered writing assistance, and intuitive document management.
 
 ## Components & Libraries
 
