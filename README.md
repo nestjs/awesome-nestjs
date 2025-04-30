@@ -180,6 +180,7 @@
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
 - [Twenty](https://github.com/twentyhq/twenty) - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
 - [Manifest](https://manifest.build) - 1-file micro backend in YAML.
+- [Bunnychess](https://github.com/pietrobassi/bunnychess) - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
 
 ## Components & Libraries
 
