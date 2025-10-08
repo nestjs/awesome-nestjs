@@ -172,6 +172,7 @@
 - [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 - [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
 - [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
+- [NestJS + React Starter](https://github.com/Alfredbis29/nestjs-react-starter) - Fullstack boilerplate with NestJS backend and React frontend, featuring JWT authentication and REST API integration.
 
 ## Components & Libraries
 
