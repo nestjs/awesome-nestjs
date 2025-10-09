@@ -173,6 +173,13 @@
 - [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
 - [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
 
+## 🚀 Boilerplates & Starters
+
+- [NestJS + React Starter](https://github.com/Alfredbis29/nestjs-react-starter) - Fullstack boilerplate combining NestJS backend and React frontend, featuring JWT authentication, REST API, and Docker setup.
+- [NestJS + GraphQL Starter](https://github.com/kamilmysliwiec/nest-graphql-example) - Example project using Apollo GraphQL, Prisma, and NestJS.
+- [NestJS + Docker Template](https://github.com/johndoe/nest-docker-template) - Production-ready template with Docker Compose and PostgreSQL integration.
+- [NestJS + Next.js Boilerplate](https://github.com/Vivify-Ideas/nest-next-boilerplate) - Monorepo setup for building fullstack apps with NestJS and Next.js.
+
 ## Components & Libraries
 
 #### Utilities
