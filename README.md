@@ -174,13 +174,15 @@
 - [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
 - [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
 - [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
-- [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
+- [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls add-my-nestjs-project
+- [NestJS + React Starter](https://github.com/Alfredbis29/nestjs-react-starter) - Fullstack boilerplate with NestJS backend and React frontend, featuring JWT authentication and REST API integration.
 - [apitable](https://github.com/apitable/apitable) - APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
 - [Twenty](https://github.com/twentyhq/twenty) - An open-source full-stack CRM system designed as an alternative to Salesforce for managing customer data and workflows efficiently.
 - [Manifest](https://manifest.build) - 1-file micro backend in YAML.
 - [IdeaForge](https://github.com/chenxiaoyao6228/idea-forge) - A powerful document collaboration platform that combines Notion-like functionality with AI capabilities. It offers a seamless environment for real-time collaborative editing, AI-powered writing assistance, and intuitive document management.
 - [Bunnychess](https://github.com/pietrobassi/bunnychess) - Open-source, scalable chess server built with NestJS microservices and NATS JetStream.
+
 
 ## Components & Libraries
 
