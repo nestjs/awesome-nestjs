@@ -91,6 +91,7 @@
 
 #### Examples
 
+- [SystemCraft](https://github.com/CSenshi/system-craft) - A collection of backend system design implementations using NestJs + Nx.
 - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) - Server side of Chat App implemented using NestJS.
 - [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
 - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
