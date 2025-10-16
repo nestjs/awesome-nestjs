@@ -159,6 +159,7 @@
 - [Stytch NestJS Starter](https://github.com/u11d-com/stytch-nestjs-starter) - A production-ready NestJS backend starter with Stytch authentication integration. Features complete email/password auth with session management, Redis session caching, smart session refresh, TypeORM with PostgreSQL, Docker setup, and TypeScript throughout.
 - [NestJS Boilerplate with Awesome Docs](https://github.com/vndevteam/nestjs-boilerplate) - A NestJS boilerplate with SWC builder, PNPM, Auth, TypeORM, PostgreSQL, Seeding data (TypeORM Extension), Mailing (@nestjs-modules/mailer, nodemailer), Logging (Pino), Exception Handling, I18N, Dockerization (Local development, production), Swagger, Document (Vuepress), Lint & format (ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint), Tests, CI.
 - [NestJS Boilerplate with Turborepo](https://github.com/theaungphyo/turborepo) - A robust boilerplate integrating NestJS for the backend and Next.js for the frontend, optimized with Turborepo for a monorepo architecture. It leverages SWC for lightning-fast compilation, PNPM for efficient package management, and implements JWT-based authentication with refresh token support. The backend uses TypeORM with PostgreSQL, and includes a mail service powered by Nodemailer. The frontend is pre-configured with Shadcn UI, supports a micro-frontend architecture, and includes built-in linting and formatting tools—making it ideal for building scalable and modern full-stack applications.
+- [NestForge](https://github.com/hhsadiq/NestForge) - More than a boilerplate — it's a complete AI-powered development platform that takes you from database schema to production-ready API in minutes. Unlike traditional boilerplates, NestForge uses AI-assistance generators to create production-ready CRUD modules and guides you in extending them with business logic while keeping your code fully aligned with architectural standards. Features zero-config setup, hexagonal architecture, enterprise features (JWT, Biometric login, Social Auth, File Management, Mailing System, i18n, GitHub Actions), Hygen code generation, AI that codes with you, and full testing suite (Unit, E2E, Load tests).
 
 ## Projects using NestJS
 
@@ -191,6 +192,7 @@
 - [NestJS + GraphQL Starter](https://github.com/kamilmysliwiec/nest-graphql-example) - Example project using Apollo GraphQL, Prisma, and NestJS.
 - [NestJS + Docker Template](https://github.com/johndoe/nest-docker-template) - Production-ready template with Docker Compose and PostgreSQL integration.
 - [NestJS + Next.js Boilerplate](https://github.com/Vivify-Ideas/nest-next-boilerplate) - Monorepo setup for building fullstack apps with NestJS and Next.js.
+- [NestForge](https://github.com/hhsadiq/NestForge) - AI-powered NestJS boilerplate and starter with hexagonal architecture, automated CRUD generation, JWT & biometric auth, file management, i18n, mailing system, and comprehensive testing suite.
 
 ## Components & Libraries
 
