@@ -449,6 +449,7 @@
 #### Cloud Managed Configuration
 
 - ![](https://img.shields.io/github/stars/nonfig/nestjs-config.svg?style=flat-square) [`@nonfig/nestjs-config`](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
+- ![](https://img.shields.io/github/stars/alpha018/nestjs-unleash-client.svg?style=flat-square) [`@alpha018/nestjs-unleash-client`](https://github.com/Alpha018/nestjs-unleash-client) - A NestJS module for [Unleash](https://www.getunleash.io/), that provides feature flagging with decorators and a Guard.
 
 #### SDK
 
