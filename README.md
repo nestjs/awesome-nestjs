@@ -357,6 +357,7 @@
 - ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
 - ![](https://img.shields.io/github/stars/omermorad/nestjs-pact.svg?style=flat-square) [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 - ![](https://img.shields.io/github/stars/omermorad/automock.svg?style=flat-square) [`@automock/jest`](https://github.com/omermorad/automock) - Standalone library for class-dependencies auto mocking
+- ![](https://img.shields.io/github/stars/suites-dev/suites.svg?style=flat-square) [`@suites/unit`](https://github.com/suites-dev/suites) - A progressive, flexible unit-testing framework for backend systems with dependency injection patterns, supporting NestJS, Jest, Vitest, and more
 
 ## Integrations
 
