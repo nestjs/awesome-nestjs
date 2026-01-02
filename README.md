@@ -457,6 +457,10 @@
 
 - ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-admin.svg?style=flat-square) [`@tfarras/nestjs-firebase-admin`](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/).
 
+#### Astrology & Vedic Sciences
+
+- [Vedika API](https://vedika.io) - Vedic astrology REST API with AI-powered chatbot integration. 108+ endpoints for horoscopes, kundali, dasha, panchang, compatibility matching, and numerology. Supports 22 languages with Swiss Ephemeris precision.
+
 ## Runtime
 
 #### Command Line / Terminal
