@@ -97,8 +97,9 @@
 - Udemy free course: [The complete NestJS developer. Enterprise Node.js framework](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/) - The complete guide for developers how to create enterprise ready applications using NestJS framework.
 - [NestJS and Project Structure - What to Do?](https://dev.to/smolinari/nestjs-and-project-structure-what-to-do-1223) - An article to show you how to structure your application with NestJS
 - For `@nestjs/swagger` with generic types:
-    + [How to generate generic DTOs with NestJs and Swagger](https://www.inextenso.dev/how-to-generate-generic-dtos-with-nestjs-and-swagger)
-    + [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/2021/how-to-generate-generics-dtos-with-nestjsswagger-422g)
+  - [How to generate generic DTOs with NestJs and Swagger](https://www.inextenso.dev/how-to-generate-generic-dtos-with-nestjs-and-swagger)
+  - [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/2021/how-to-generate-generics-dtos-with-nestjsswagger-422g)
+- YouTube course by TeaCoder: [NestJS Full Course (10 hours)](https://www.youtube.com/watch?v=HT6cm4GoSIw) - Comprehensive guide covering core concepts (Russian).
 
 #### Examples
 
@@ -173,7 +174,6 @@
 - [NestForge](https://github.com/hhsadiq/NestForge) - More than a boilerplate — it's a complete AI-powered development platform that takes you from database schema to production-ready API in minutes. Unlike traditional boilerplates, NestForge uses AI-assistance generators to create production-ready CRUD modules and guides you in extending them with business logic while keeping your code fully aligned with architectural standards. Features zero-config setup, hexagonal architecture, enterprise features (JWT, Biometric login, Social Auth, File Management, Mailing System, i18n, GitHub Actions), Hygen code generation, AI that codes with you, and full testing suite (Unit, E2E, Load tests).
 - [Nestify](https://github.com/mugabodannyshafi/nestify) - A powerful CLI toolkit for generating production-ready NestJS projects in one command. Includes authentication scaffolding, Prisma/TypeORM support, database integrations (MySQL, PostgreSQL, MongoDB), Docker setup, testing, GitHub Actions CI/CD, and pre-configured development tools (ESLint, Prettier, Swagger). [Documentation](https://nestify-docs.web.app/)
 
-
 ## Projects using NestJS
 
 #### Open Source
@@ -238,7 +238,7 @@
 #### Web Sockets
 
 - [`@nestjs/websockets`](https://docs.nestjs.com/websockets/gateways)
-- ![](https://img.shields.io/github/stars/samchon/tgrid?style=flat-square)  [`tgrid`](https://github.com/samchon/tgrid) - TypeScript RPC (Remote Procedure Call) framework supporting websocket and worker protocols with pure TypeScript types. Supports NestJS websocket controller methods with `@nestia/core`.
+- ![](https://img.shields.io/github/stars/samchon/tgrid?style=flat-square) [`tgrid`](https://github.com/samchon/tgrid) - TypeScript RPC (Remote Procedure Call) framework supporting websocket and worker protocols with pure TypeScript types. Supports NestJS websocket controller methods with `@nestia/core`.
 
 #### Cache
 
@@ -415,7 +415,7 @@
 - ![](https://img.shields.io/github/stars/golevelup/nestjs.svg?style=flat-square) [`@golevelup/nestjs-rabbitmq`](https://github.com/golevelup/nestjs/tree/master/packages/rabbitmq) - Flexible AMQP integrations for NestJS that supports multiple messaging patterns and intuitive decorators.
 - ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-amqp-transport`](https://github.com/getlarge/nestjs-tools/tree/main/packages/amqp-transport) - An extended **AMQP** transport strategy supporting **exchanges**.
 - ![](https://img.shields.io/github/stars/diy0r/nestjs-rabbitmq.svg?style=flat-square) [`@diy0r/nestjs-rabbitmq`](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
-  
+
 #### EventStore
 
 - ![](https://img.shields.io/github/stars/PrestaShopCorp/nestjs-geteventstore.svg?style=flat-square) [`nestjs-geteventstore` by PrestaShopCorp](https://github.com/PrestaShopCorp/nestjs-geteventstore) - An evenstore.org module for NestJS CQRS with Projects and Subscriptions. Supports Eventstore 21.10.0+
