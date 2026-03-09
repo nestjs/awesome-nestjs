@@ -250,6 +250,7 @@
 - ![](https://img.shields.io/github/stars/nest-modules/ioredis.svg?style=flat-square) [`@nestjs-modules/ioredis`](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
 - ![](https://img.shields.io/github/stars/liaoliaots/nestjs-redis.svg?style=flat-square) [`@liaoliaots/nestjs-redis`](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for NestJS framework.
 - ![](https://img.shields.io/github/stars/csenshi/nestjs-redis.svg?style=flat-square) [`@csenshi/nestjs-redis`](https://github.com/CSenshi/nestjs-redis) - NestJS Redis toolkit for node-redis — Client, Redlock, health checks and more.
+- ![](https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx.svg?style=flat-square) [`@nestjs-redisx/*`](https://github.com/nestjs-redisx/nestjs-redisx) - Modular Redis toolkit with plugin architecture: L1+L2 caching (SWR, anti-stampede, tags), distributed locks, rate limiting, idempotency, streams, Prometheus metrics, and OpenTelemetry tracing.
 
 #### Mail
 
