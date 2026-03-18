@@ -314,6 +314,7 @@
 #### Internationalization (i18n)
 
 - ![](https://img.shields.io/github/stars/ToonvanStrijp/nestjs-i18n.svg?style=flat-square) [`nestjs-i18n`](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
+- ![](https://img.shields.io/github/stars/aymericzip/intlayer.svg?style=flat-square) [`intlayer`](https://intlayer.org/doc/environment/nest) - Scoped i18n for error handling, response message and email templates.
 
 #### Currency
 
