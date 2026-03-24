@@ -252,6 +252,7 @@
 - ![](https://img.shields.io/github/stars/liaoliaots/nestjs-redis.svg?style=flat-square) [`@liaoliaots/nestjs-redis`](https://github.com/liaoliaots/nestjs-redis) - Redis(ioredis) module for NestJS framework.
 - ![](https://img.shields.io/github/stars/csenshi/nestjs-redis.svg?style=flat-square) [`@csenshi/nestjs-redis`](https://github.com/CSenshi/nestjs-redis) - NestJS Redis toolkit for node-redis — Client, Redlock, health checks and more.
 - ![](https://img.shields.io/github/stars/nestjs-redisx/nestjs-redisx.svg?style=flat-square) [`@nestjs-redisx/*`](https://github.com/nestjs-redisx/nestjs-redisx) - Modular Redis toolkit with plugin architecture: L1+L2 caching (SWR, anti-stampede, tags), distributed locks, rate limiting, idempotency, streams, Prometheus metrics, and OpenTelemetry tracing.
+- ![](https://img.shields.io/github/stars/alexpota/nestjs-redlock-universal.svg?style=flat-square) [`nestjs-redlock-universal`](https://github.com/alexpota/nestjs-redlock-universal) - Distributed Redis and Valkey lock module with decorators, supporting node-redis, ioredis, and Valkey GLIDE clients.
 
 #### Mail
 
