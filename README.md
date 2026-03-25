@@ -87,7 +87,7 @@
 - [Build a geofencing web app using NestJS and the Google Maps API](https://pusher.com/tutorials/geofencing-nestjs-googlemaps)
 - [Build live comments with sentiment analysis using NestJS](https://pusher.com/tutorials/live-comments-sentiment-analysis-nestjs)
 - [Build a chat app with sentiment analysis using NestJS](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
-- [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
+- [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs) 
 - [Build a realtime table with DataTables and NestJS](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
 - [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
@@ -235,6 +235,8 @@
 #### Code Style
 
 - ![](https://img.shields.io/github/stars/basarat/typescript-book.svg?style=flat-square) [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
+- ![](https://img.shields.io/npm/v/nestjs-best-practices-skill.svg?style=flat-square)                                                                
+  [nestjs-best-practices-skill](https://github.com/Ahmustufa/nestjs-best-practices-skill) - 24 production-ready NestJS best practice rules for Claude Code, Cursor & Windsurf. Install via `npx nestjs-best-practices-skill`.
 
 #### Web Sockets
 
