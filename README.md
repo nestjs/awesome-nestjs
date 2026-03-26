@@ -459,6 +459,7 @@
 
 - ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-file-storages`](https://github.com/getlarge/nestjs-tools/blob/main/packages/file-storage) - A FileStorage Module supporting several strategies (**FS**, **S3**, **GCP storage**) to store files.
 - ![](https://img.shields.io/github/stars/getlarge/nestjs-tools.svg?style=flat-square) [`@getlarge/nestjs-tools-fastify-upload`](https://github.com/getlarge/nestjs-tools/tree/main/packages/fastify-upload) - Suite of Interceptors and request decorators to handle file upload with **Fastify**.
+- ![](https://img.shields.io/github/stars/pompelmi/pompelmi.svg?style=flat-square) [`@pompelmi/nestjs-integration`](https://github.com/pompelmi/pompelmi) - File upload scanning integration to inspect untrusted files before storage.
 
 #### Cloud Managed Configuration
 
