@@ -268,6 +268,7 @@
 - ![](https://img.shields.io/github/stars/Fcmam5/nest-problem-details.svg?style=flat-square) [`nest-problem-details`](https://github.com/Fcmam5/nest-problem-details) An exception filter to return [RFC-7807](https://datatracker.ietf.org/doc/html/rfc7807)-compliant HTTP responses.
 - ![](https://img.shields.io/github/stars/woowabros/nestjs-library-crud.svg?style=flat-square) [`@nestjs-library/crud`](https://github.com/woowabros/nestjs-library-crud) - Automatically generates CRUD routes of a controller for given TypeORM entity.
 - ![](https://img.shields.io/github/stars/rbonestell/nest-ndjson-req-stream.svg?style=flat-square) [`nest-ndjson-req-stream`](https://github.com/rbonestell/nest-ndjson-req-stream) - Accept and automatically deserialize NDJSON request streams in NestJS
+- ![](https://img.shields.io/github/stars/rodrigobnogueira/nest-trpc-native.svg?style=flat-square) [`nest-trpc-native`](https://github.com/rodrigobnogueira/nest-trpc-native) - Native, decorator-first tRPC integration for NestJS. Build typesafe APIs with full support for Nest dependency injection, guards, and interceptors.
 
 #### Middleware
 
