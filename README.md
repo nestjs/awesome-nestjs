@@ -244,6 +244,7 @@
 #### Cache
 
 - [`@nestjs/cache-manager`](https://github.com/nestjs/cache-manager) - Official caching module for NestJS with support for multiple stores (Redis, Memcached, etc.).
+- ![](https://img.shields.io/github/stars/flyingsquirrel0419/layercache.svg?style=flat-square) [`@cachestack/nestjs`](https://github.com/flyingsquirrel0419/layercache/tree/main/packages/nestjs) - NestJS module for layercache, a multi-layer caching toolkit with memory/Redis/disk stores, stale serving, anti-stampede protection, tags, metrics, and distributed invalidation.
 - ![](https://img.shields.io/github/stars/BJS-kr/nestjs-omacache.svg?style=flat-square) [`nestjs-omacache`](https://github.com/BJS-kr/nestjs-omacache) - A simple, flexible and powerful cache decorator factory for NestJS framework.
 
 #### Redis
