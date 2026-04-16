@@ -100,6 +100,7 @@
   - [How to generate generic DTOs with NestJs and Swagger](https://www.inextenso.dev/how-to-generate-generic-dtos-with-nestjs-and-swagger)
   - [How to generate Generics DTOs with nestjs/swagger](https://aalonso.dev/blog/2021/how-to-generate-generics-dtos-with-nestjsswagger-422g)
 - YouTube course by TeaCoder: [NestJS Full Course (10 hours)](https://www.youtube.com/watch?v=HT6cm4GoSIw) - Comprehensive guide covering core concepts (Russian).
+- [Prod Forge](https://github.com/prod-forge/backend) - Example of a production-oriented NestJS service covering CI/CD, migrations, observability, and infrastructure.
 
 #### Examples
 
