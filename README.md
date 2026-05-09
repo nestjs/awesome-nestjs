@@ -350,6 +350,7 @@
 #### Multi Tenancy
 
 - ![](https://img.shields.io/github/stars/AlexanderC/nestjs-mtenant.svg?style=flat-square) [`nestjs-mtenant`](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
+- ![](https://img.shields.io/github/stars/nestarc/nestjs-tenancy.svg?style=flat-square) [`@nestarc/tenancy`](https://github.com/nestarc/nestjs-tenancy) - PostgreSQL Row Level Security (RLS) based multi-tenancy for NestJS with Prisma Client Extensions and AsyncLocalStorage.
 
 #### Microservice
 
