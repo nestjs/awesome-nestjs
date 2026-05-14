@@ -234,6 +234,7 @@
 - ![](https://img.shields.io/github/stars/unlight/prisma-nestjs-graphql?style=flat-square) [`prisma-nestjs-graphql`](https://github.com/unlight/prisma-nestjs-graphql) - Generate object types, inputs, args, etc. from prisma schema file for usage with `@nestjs/graphql` module.
 - ![](https://img.shields.io/github/stars/nestjstools/messaging?style=flat-square) [`@nestjstools/messaging`](https://github.com/nestjstools/messaging) - A NestJS library for managing asynchronous and synchronous messages (service bus | message bus) with support for buses, handlers, channels, and consumers.
 - ![](https://img.shields.io/github/stars/Akronae/nestjs-openapi-validation?style=flat-square) [`nestjs-openapi-validation`](https://github.com/Akronae/nestjs-openapi-validation) - Validate NestJS DTOs with Zod using TypeScript/OpenAPI spec.
+- ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-configx`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/configx) - Simple configuration management for NestJS, supporting [Standard Schema](https://standardschema.dev/).
 
 #### Code Style
 
