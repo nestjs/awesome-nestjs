@@ -452,6 +452,7 @@
 #### Workflow Automation
 
 - ![](https://img.shields.io/github/stars/camunda-community-hub/nestjs-zeebe.svg?style=flat-square) [`nestjs-zeebe`](https://github.com/camunda-community-hub/nestjs-zeebe)
+- ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-hatchet`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/hatchet) - NestJS integration for [Hatchet](https://hatchet.run/) workflow orchestration.
 
 #### Chatbots
 
