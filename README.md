@@ -316,6 +316,7 @@
 - ![](https://img.shields.io/github/stars/willsoto/nestjs-prometheus.svg?style=flat-square) [`nestjs-prometheus`](https://github.com/willsoto/nestjs-prometheus) - NestJS module for Prometheus.
 - ![](https://img.shields.io/github/stars/apitally/apitally-js.svg?style=flat-square) [`apitally`](https://github.com/apitally/apitally-js) - Client library for [Apitally](https://apitally.io/nestjs), a simple API monitoring & analytics tool with alerting for NestJS.
 - ![](https://img.shields.io/github/stars/netanelavr/nestjs-metrics-reporter.svg?style=flat-square) [`nestjs-metrics-reporter`](https://github.com/netanelavr/nestjs-metrics-reporter) - A zero-dependency-injection global metrics reporter for NestJS.
+- ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-healthz`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/healthz) - Self-mounting health check module with cross-module attestor discovery and Kubernetes-style probes.
 
 #### Internationalization (i18n)
 
