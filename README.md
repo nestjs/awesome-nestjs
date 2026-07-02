@@ -237,6 +237,7 @@
 - ![](https://img.shields.io/github/stars/nestjstools/messaging?style=flat-square) [`@nestjstools/messaging`](https://github.com/nestjstools/messaging) - A NestJS library for managing asynchronous and synchronous messages (service bus | message bus) with support for buses, handlers, channels, and consumers.
 - ![](https://img.shields.io/github/stars/Akronae/nestjs-openapi-validation?style=flat-square) [`nestjs-openapi-validation`](https://github.com/Akronae/nestjs-openapi-validation) - Validate NestJS DTOs with Zod using TypeScript/OpenAPI spec.
 - ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-configx`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/configx) - Simple configuration management for NestJS, supporting [Standard Schema](https://standardschema.dev/).
+- [`nestjs-decorators`](https://github.com/NeoLabHQ/nestjs-decorators) - Decorator primitives that eliminate logging, error handling and validation boilerplate: `@Log`, `@Catch`, `@Validate`
 
 #### Code Style
 
@@ -345,6 +346,7 @@
 
 - ![](https://img.shields.io/github/stars/SocketSomeone/nestjs-resilience.svg?style=flat-square) [`nestjs-resilience`](https://github.com/SocketSomeone/nestjs-resilience) - A module for improving the reliability and fault-tolerance of your NestJS applications.
 - ![](https://img.shields.io/github/stars/hienngm/nestjs-graceful-shutdown.svg?style=flat-square) [`nestjs-graceful-shutdown`](https://github.com/hienngm/nestjs-graceful-shutdown) - A powerful package for gracefully shutting down NestJS applications.
+- [`nestjs-resilient-client`](https://github.com/NeoLabHQ/nestjs-resilient-client) - Zero-configuration HTTP client that provides out-of-the-box support for retries, circuit breakers, bulkheads, timeouts, fallbacks, and other resilience patterns.
 
 #### RBAC (Role-based access control)
 
