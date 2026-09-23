@@ -504,6 +504,7 @@
 - ![](https://img.shields.io/github/stars/ashinzekene/generator-nestjs-app.svg?style=flat-square) [`generator-nestjs-app`](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for NestJS apps.
 - ![](https://img.shields.io/github/stars/Pop-Code/nestjs-console.svg?style=flat-square) [`nestjs-console`](https://github.com/Pop-Code/nestjs-console) - A NestJS module that provide a cli to application.
 - ![](https://img.shields.io/github/stars/LoneStone/nest-sdk-generator.svg?style=flat-square) [`nest-sdk-generator`](https://github.com/lonestone/nest-sdk-generator) - A command-line utility to generate a fully typed SDK from a Nest.js REST API
+- ![](https://img.shields.io/github/stars/cortex-docs/cortex.svg?style=flat-square) [`@cortex-docs/cli`](https://github.com/cortex-docs/cortex) - Generates interactive documentation and typed SDKs from the OpenAPI document exposed by `@nestjs/swagger`.
 
 ## Meetups
 
