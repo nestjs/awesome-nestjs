@@ -308,6 +308,12 @@
 - ![](https://img.shields.io/github/stars/shekohex/nest-router.svg?style=flat-square) [`nest-router`](https://github.com/shekohex/nest-router) - Router Module For NestJS Framework 🚦 🚀
   for organizing your Routes, creating a routes tree, and more.
 
+#### HTTP Adapters
+
+- ![](https://img.shields.io/github/stars/kiyasov/platform-hono.svg?style=flat-square) [`@kiyasov/platform-hono`](https://github.com/kiyasov/platform-hono) - Hono HTTP adapter.
+- ![](https://img.shields.io/github/stars/FOSSFORGE/uWestJS.svg?style=flat-square) [`uwestjs`](https://github.com/FOSSFORGE/uWestJS) - HTTP and WebSocket platform adapter on uWebSockets.js.
+- ![](https://img.shields.io/github/stars/nigrosimone/fulmine.js.svg?style=flat-square) [`fulmine.js/nest`](https://github.com/nigrosimone/fulmine.js) - Express 5 compatible adapter on uWebSockets.js, a drop-in for `@nestjs/platform-express`.
+
 #### Dialogflow :satellite:
 
 - ![](https://img.shields.io/github/stars/adrien2p/nestjs-dialogflow.svg?style=flat-square) [`nestjs-dialogflow`](https://github.com/adrien2p/nestjs-dialogflow) - Dialog flow module that simplify the web hook handling for your NLP application using NestJS.
