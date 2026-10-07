@@ -243,6 +243,7 @@
 - ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-configx`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/configx) - Simple configuration management for NestJS, supporting [Standard Schema](https://standardschema.dev/).
 - ![](https://img.shields.io/github/stars/rejifald/StitchAPI.svg?style=flat-square) [`@stitchapi/nest`](https://github.com/rejifald/StitchAPI/tree/main/packages/nest) - Injectable, typed and schema-validated HTTP clients with streaming, retries, throttling and caching, plus Logger and ConfigService bridges, an exception filter and an SSE bridge.
 - ![](https://img.shields.io/github/stars/DicoShot/dicoshot-nest.svg?style=flat-square) [`dicoshot-nest`](https://github.com/DicoShot/dicoshot-nest) - Discord webhook notifications for NestJS app lifecycle events.
+- ![](https://img.shields.io/github/stars/aristoteliss/nestjs-pipeline.svg?style=flat-square) [`@nestjs-pipeline`](https://github.com/aristoteliss/nestjs-pipeline) - Pipeline behaviors for NestJS CQRS with advanced patterns including caching, idempotency, and Clean Architecture support.
 
 #### Code Style
 
