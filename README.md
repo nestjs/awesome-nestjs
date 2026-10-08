@@ -398,6 +398,7 @@
 - ![](https://img.shields.io/github/stars/omermorad/mockingbird.svg?style=flat-square) [`mockingbird`](https://www.npmjs.com/package/mockingbird) - A library to create typed tests fixtures/mocks using decorators and built-in faker support
 - ![](https://img.shields.io/github/stars/omermorad/nestjs-pact.svg?style=flat-square) [NestJS + Pact](https://www.npmjs.com/package/nestjs-pact) - Injectable Pact.js Consumer/Provider for NestJS
 - ![](https://img.shields.io/github/stars/suites-dev/suites.svg?style=flat-square) [Suites](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
+- ![](https://img.shields.io/github/stars/keploy/keploy.svg?style=flat-square) [Keploy](https://github.com/keploy/keploy) - Records real requests through a running NestJS app and replays them as tests with dependency mocks in isolated sandboxes.
 
 ## Integrations
 
