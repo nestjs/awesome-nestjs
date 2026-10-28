@@ -89,7 +89,6 @@
 - [Build a chat app with sentiment analysis using NestJS](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
 - [Create a realtime graph using NestJS](https://pusher.com/tutorials/realtime-graph-nestjs)
 - [Build a realtime table with DataTables and NestJS](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
-- [NestJS Basic Auth and Sessions](https://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - [MEAN Stack with NestJS and Swagger](https://medium.com/@ctran2428/mean-stack-with-nestjs-and-swagger-9d8d14862d6b)
 - [Implementing RBAC Authorization in a NestJS](https://www.permit.io/blog/how-to-protect-a-url-inside-a-nestjs-app-using-rbac-authorization) - A guide to securing your NestJS API endpoints with Role Based Access Control (RBAC) and Attribute Based Access Control (ABAC) using ` @nestjs/passport` and Permit.io
 - [TutorialSearch](https://tutorialsearch.io/?q=nestjs) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
@@ -110,7 +109,6 @@
 - [Domain Driven Design - Library](https://github.com/Sikora00/ddd-by-examples-library-nestjs) - Example of an application that follows Domain Driven Design.
 - [Realworld Example App](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM.
 - [Mant](https://github.com/vladotesanovic/mant) - New Stack on the Market to beat them all :ring: MANT.
-- [Nest Permissions Seed](https://github.com/EndyKaufman/nest-permissions-seed) - A simple application demonstrating the basic usage of permissions with NestJS.
 - [Angular NestJS Rendering](https://github.com/Innovic-io/angular-nestjs-rendering) - Angular 5+ server side rendering using NestJS.
 - [Angular Contact Manager App](https://github.com/Abdallah-khalil/ContactManagerApp) - A Contact Manager App using Angular, NestJS, Mongoose, Passport, JWT.
 - [Books Library API](https://github.com/Abdallah-khalil/Books-Library-API) - A restful API with NestJS and mongoose.
@@ -138,7 +136,6 @@
 - [🧪 Fully tested NestJS Prisma Clean Architecture Boilerplate](https://github.com/VincentJouanne/nest-clean-architecture-ddd-example) - This boilerplate shows how to test your NestJS API with unit, integration and e2e tests. Use-cases are written in functionnal programming with FP-TS.
 - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
 - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
-- [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, BullMQ, Docker, Terraform, and 55+ tests. Free lite version available.
 - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
 - [NestJS Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
 - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
@@ -176,7 +173,6 @@
 - [NestForge](https://github.com/hhsadiq/NestForge) - More than a boilerplate — it's a complete AI-powered development platform that takes you from database schema to production-ready API in minutes. Unlike traditional boilerplates, NestForge uses AI-assistance generators to create production-ready CRUD modules and guides you in extending them with business logic while keeping your code fully aligned with architectural standards. Features zero-config setup, hexagonal architecture, enterprise features (JWT, Biometric login, Social Auth, File Management, Mailing System, i18n, GitHub Actions), Hygen code generation, AI that codes with you, and full testing suite (Unit, E2E, Load tests).
 - [Nestify](https://github.com/mugabodannyshafi/nestify) - A powerful CLI toolkit for generating production-ready NestJS projects in one command. Includes authentication scaffolding, Prisma/TypeORM support, database integrations (MySQL, PostgreSQL, MongoDB), Docker setup, testing, GitHub Actions CI/CD, and pre-configured development tools (ESLint, Prettier, Swagger). [Documentation](https://nestify-docs.web.app/)
 - [NestJS Boilerplate](https://github.com/oNo500/nestjs-boilerplate) - Enterprise-grade full-stack SaaS starter with NestJS, Drizzle ORM, Turborepo monorepo, React 19 admin panels (Ant Design Pro & shadcn/ui), authentication, authorization, audit logging, and DDD architecture.
-- [SaaS Starter by Cloudrix](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular SaaS boilerplate with authentication, Stripe billing, multi-tenancy, and MIT license.
 
 ## Projects using NestJS
 
@@ -192,7 +188,6 @@
 - [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API.
 - [Amplication](https://github.com/amplication/amplication) - Amplication is an open-source low-code devtool that auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
 - [Necord/Toolkit](https://github.com/necordjs/toolkit) - Toolkit is an open-source bot for searching and sending documentation, built with Necord.
-- [Undb](https://github.com/undb-xyz/undb) - Undb is a no-code database based on Svelte-kit and SQLite.
 - [Eicrud](https://github.com/eicrud/eicrud) - An opinionated framework that extends NestJS with CRUD services, user management commands, and authorization controls.
 - [apitable](https://github.com/apitable/apitable) - APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Ghostfolio is a privacy-focused, open-source dashboard that simplifies asset tracking and supports informed financial decisions.
@@ -293,7 +288,6 @@
 #### Errors
 
 - ![](https://img.shields.io/github/stars/nestjs/observe.svg?style=flat-square) [`@nestjs/observe`](https://github.com/nestjs/observe) - Official observability and APM agent for NestJS - error tracking, distributed traces, runtime metrics and CPU profiles.
-- ![](https://img.shields.io/github/stars/squareboat/nest-eyewitness.svg?style=flat-square) [`@squareboat/nest-eyewitness`](https://github.com/squareboat/nest-eyewitness) - Receive error reports directly to your inbox whenever any exception is witnessed 👀 in your NestJS application.
 - ![](https://img.shields.io/github/stars/shekohex/nestjs-flub.svg?style=flat-square) [`nestjs-flub`](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
 - ![](https://img.shields.io/github/stars/ntegral/nestjs-sentry.svg?style=flat-square) [`nestjs-sentry`](https://github.com/ntegral/nestjs-sentry) - Another NestJS Sentry module, with injectable sentry client.
 
