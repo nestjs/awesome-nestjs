@@ -416,6 +416,7 @@
 - ![](https://img.shields.io/github/stars/hyperloris/nestjs-tile38.svg?style=flat-square) [`nestjs-tile38`](https://github.com/hyperloris/nestjs-tile38) - A [Tile38](https://tile38.com) module for Nest framework.
 - ![](https://img.shields.io/github/stars/knaadh/nestjs-drizzle.svg?style=flat-square) [`nestjs-drizzle`](https://github.com/knaadh/nestjs-drizzle) - A [Drizzle ORM](https://orm.drizzle.team/) module for Nest.
 - ![](https://img.shields.io/github/stars/alpha018/nestjs-redisom.svg?style=flat-square) [`@alpha018/nestjs-redisom`](https://github.com/alpha018/nestjs-redisom) - A [RedisOM](https://redis.io/docs/latest/integrate/redisom-for-node-js/) module for NestJS, enabling object mapping and fluent query building for Redis.
+- ![](https://img.shields.io/github/stars/liberation-data/drivine.svg?style=flat-square) [`@liberation-data/drivine`](https://github.com/liberation-data/drivine) - Graph database client with an object manager and typed query DSL, for Neo4j, Memgraph, FalkorDB, and Postgres or Oracle with Cypher compiled to SQL.
 
 #### GraphQL
 
