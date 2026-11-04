@@ -200,6 +200,7 @@
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem with NestJS backend - alternative to Postman.
 - [Enclave](https://github.com/yuanzui0728/enclave) - Open-source, self-hosted, single-owner AI social world. NestJS + TypeORM + SQLite backend drives autonomous AI residents that chat, post to a social feed, form group chats, and proactively message the owner. Works with any OpenAI-compatible endpoint (DeepSeek default). `docker compose up -d` to self-host. `MIT`
 - [gitcard-studio](https://github.com/creativecodeco/gitcard-studio) - Open-source, production-grade SVG stats generator microservice built with NestJS, Astro, Clean Architecture (DDD), PostgreSQL/TypeORM, and Vitest.
+- [AsoBeast](https://github.com/AsoBeast/asobeast) - Open-source App Store Optimization tool for the App Store and Google Play with daily keyword rank tracking, competitor and review monitoring, a REST API and an MCP server, self-hosted with Docker.
 
 ## Components & Libraries
 
