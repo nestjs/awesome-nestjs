@@ -281,6 +281,7 @@
 - ![](https://img.shields.io/github/stars/nest-native/trpc.svg?style=flat-square) [`@nest-native/trpc`](https://github.com/nest-native/trpc) - Native, decorator-first tRPC integration for NestJS. Build typesafe APIs with full support for Nest dependency injection, guards, and interceptors.
 - ![](https://img.shields.io/github/stars/ts-oas/nest-openapi.svg?style=flat-square) [`@nest-openapi/mcp`](https://github.com/ts-oas/nest-openapi) - Spec-driven Model Context Protocol (MCP) server for exposing OpenAPI operations as AI tools. ([Documentation](https://nest-openapi.github.io/mcp/))
 - ![](https://img.shields.io/github/stars/silkweave/silkweave.svg?style=flat-square) [`@silkweave/nestjs`](https://github.com/silkweave/silkweave/tree/master/packages/nestjs) - Expose existing controllers as Model Context Protocol (MCP) tools with a single `@Mcp()` decorator, reflecting tool schemas from route, param, and DTO metadata.
+- ![](https://img.shields.io/github/stars/middleapi/orpc.svg?style=flat-square) [`@orpc/nest`](https://github.com/middleapi/orpc/tree/main/packages/nest) - Implement typesafe oRPC contracts in controllers, with end-to-end typed clients and OpenAPI generation.
 
 #### Middleware
 
