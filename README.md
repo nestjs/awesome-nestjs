@@ -273,6 +273,7 @@
 #### API
 
 - [`@nestjs/swagger`](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
+- ![](https://img.shields.io/github/stars/Newbie012/nestjs-openapi.svg?style=flat-square) [`nestjs-openapi`](https://github.com/Newbie012/nestjs-openapi) - Uses static analysis of your NestJS source code to generate a stricter, more accurate OpenAPI spec. ([Documentation](https://nestjs-openapi.vercel.app))
 - ![](https://img.shields.io/github/stars/flamewow/nestjs-asyncapi.svg?style=flat-square) [`nestjs-asyncapi`](https://github.com/flamewow/nestjs-asyncapi) - AsyncAPI module for NestJS.
 - ![](https://img.shields.io/github/stars/tripss/nestjs-query.svg?style=flat-square) [`@ptc-org/nestjs-query-*`](https://github.com/tripss/nestjs-query) - Nest CRUD for GraphQL APIs.
 - ![](https://img.shields.io/github/stars/samchon/nestia.svg?style=flat-square) [`@nestia/sdk`](https://github.com/samchon/nestia) - Automatic SDK (Software Development Kit, collection of `fetch` functions with type definitions like `tRPC`), Mockup Simulator (backend server simulator embedded in SDK like `msw`) and Swagger generators, evolved than ever. Also, it can automatically generate e2e test functions for every API routes by analyzing your NestJS server codes.
