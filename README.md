@@ -502,6 +502,7 @@
 #### SDK
 
 - ![](https://img.shields.io/github/stars/tfarras/nestjs-firebase-admin.svg?style=flat-square) [`@tfarras/nestjs-firebase-admin`](https://github.com/tfarras/nestjs-firebase-admin) - NestJS Module for [Firebase Admin SDK](https://firebase.google.com/).
+- ![](https://img.shields.io/github/stars/basementstudio/xmcp.svg?style=flat-square) [`xmcp`](https://github.com/basementstudio/xmcp) - Expose file-based tools, resources, and prompts through the [MCP adapter](https://xmcp.dev/docs/adapters/nestjs).
 
 ## Runtime
 
