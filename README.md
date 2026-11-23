@@ -130,6 +130,7 @@
 - [NestJs Authentication](https://github.com/anilahir/nestjs-authentication-and-authorization) - NestJS Authentication without Passport using Bcrypt, JWT and Redis
 - [NestJs Farm Starter](https://github.com/ErKeLost/farm-nestjs-starter) - Compile a nestjs project using [Farm](https://www.farmfe.org/), Compile in milliseconds.
 - [Shopping Backend](https://github.com/samchon/shopping-backend) - NestJS shopping backend implementation with [Prisma](https://www.prisma.io/) and [Nestia](https://nestia.io/) for educational purposes. It has been developed under strict architecture design, and ensures quality with comprehensive e2e and unit testing.
+- [OpenReceive NestJS Starter](https://github.com/OpenReceive/openreceive/tree/master/examples/nestjs-starter) - One-product shop that takes Bitcoin Lightning payments into your own wallet, with orders and payment attempts in PostgreSQL through TypeORM.
 
 #### Boilerplate
 
