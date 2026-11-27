@@ -205,6 +205,7 @@
 - [AsoBeast](https://github.com/AsoBeast/asobeast) - Open-source App Store Optimization tool for the App Store and Google Play with daily keyword rank tracking, competitor and review monitoring, a REST API and an MCP server, self-hosted with Docker.
 - [Snagbox](https://github.com/fabwaseem/snagbox) - Self-hostable media downloader REST API for major social platforms, with API key auth, rate limiting and PostgreSQL. `MIT`
 - [Awesomer](https://github.com/patrickclery/awesomer) - Tracks 7, 30 and 90-day star growth for repositories in curated awesome lists, with a NestJS 11 and Prisma 7 sync pipeline feeding a static Next.js site. `MIT`
+- [CybeDefend](https://github.com/CybeDefend/cybedefend) - Open source, self-hosted AppSec platform built on NestJS microservices: SAST, SCA, secrets and IaC results in one dashboard, plus a skill that has your coding agent prove each flaw with an exploit test.
 
 ## Components & Libraries
 
