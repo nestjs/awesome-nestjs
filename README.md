@@ -341,6 +341,7 @@
 - ![](https://img.shields.io/github/stars/netanelavr/nestjs-metrics-reporter.svg?style=flat-square) [`nestjs-metrics-reporter`](https://github.com/netanelavr/nestjs-metrics-reporter) - A zero-dependency-injection global metrics reporter for NestJS.
 - ![](https://img.shields.io/github/stars/abinnovision/nestjs-commons.svg?style=flat-square) [`@abinnovision/nestjs-healthz`](https://github.com/abinnovision/nestjs-commons/tree/main/packages/healthz) - Self-mounting health check module with cross-module attestor discovery and Kubernetes-style probes.
 - ![](https://img.shields.io/github/stars/eleven-labs/nest-profiler.svg?style=flat-square) [`@eleven-labs/nest-profiler`](https://github.com/eleven-labs/nest-profiler) - Symfony Web Profiler-inspired devtools panel to inspect requests, logs, exceptions, database queries and performance spans in real time, through an extensible collector architecture.
+- ![](https://img.shields.io/github/stars/mogretici/nestlens.svg?style=flat-square) [`nestlens`](https://github.com/mogretici/nestlens) - Laravel Telescope-inspired debugging dashboard that records requests, queries, exceptions, logs, GraphQL operations, jobs, cache and more, with zero-config setup and an MCP server for coding agents.
 
 #### Internationalization (i18n)
 
