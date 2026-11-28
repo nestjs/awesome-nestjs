@@ -102,6 +102,7 @@
 - YouTube course by TeaCoder: [NestJS Full Course (10 hours)](https://www.youtube.com/watch?v=HT6cm4GoSIw) - Comprehensive guide covering core concepts (Russian).
 - [Prod Forge](https://github.com/prod-forge/backend) - Production-oriented NestJS service showcasing CI/CD, migrations, observability, and infrastructure, with documented decisions and a step-by-step guide; companion [React and Expo client](https://github.com/prod-forge/frontend) and [Terraform stack](https://github.com/prod-forge/terraform).
 - [Coddy Node.js Course](https://coddy.tech/landing/nodejs) - Interactive course whose last section rebuilds a REST API with controllers, services, DTOs, pipes, guards and interceptors, run in the browser.
+- [Get an OpenAPI spec from NestJS](https://mcpeasy.net/guides/openapi/nestjs) - Step-by-step `@nestjs/swagger` setup with the CLI plugin, exporting openapi.json from /docs-json, and fixes for common problems.
 
 #### Examples
 
